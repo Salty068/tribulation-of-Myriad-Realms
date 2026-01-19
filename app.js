@@ -254,7 +254,7 @@ function setupEventListeners() {
     // Auto-hide navbar on scroll for mobile
     let lastScrollTop = 0;
     const navbar = document.querySelector('.navbar');
-    const scrollThreshold = 10; // Minimum scroll distance to trigger
+    const scrollThreshold = 5; // Minimum scroll distance to trigger
     
     window.addEventListener('scroll', () => {
         // Only on mobile devices
@@ -265,7 +265,7 @@ function setupEventListeners() {
                 return; // Don't do anything if scroll is too small
             }
             
-            if (scrollTop > lastScrollTop && scrollTop > 100) {
+            if (scrollTop > lastScrollTop && scrollTop > 50) {
                 // Scrolling down & past threshold
                 navbar.classList.add('hidden');
             } else {
