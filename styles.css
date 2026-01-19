@@ -285,45 +285,116 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .container {
+        padding: 0 16px;
+    }
+
+    .navbar {
+        padding: 0.75rem 0;
+    }
+
+    .nav-brand {
+        font-size: 1.125rem;
+    }
+
+    .nav-links {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+
     .novel-header {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        padding: 1.5rem;
+        gap: 1.5rem;
+    }
+
+    .cover-placeholder {
+        width: 160px;
+        height: 224px;
+        font-size: 1.5rem;
     }
 
     .novel-title {
-        font-size: 2rem;
+        font-size: 1.75rem;
+        line-height: 1.3;
+    }
+
+    .novel-author {
+        font-size: 1rem;
+    }
+
+    .novel-stats {
+        justify-content: center;
+        gap: 1rem;
     }
 
     .novel-actions {
-    .chapter-content {
-        padding: 2rem 1.5rem;
-        font-size: 1.0625rem;
-    }
-    
-    .chapter-content p {
-        text-indent: 1em;
-    }
-    .btn {
+        flex-direction: column;
         width: 100%;
     }
 
-    .chapter-content {
-        padding: 1.5rem;
+    .btn {
+        width: 100%;
+        padding: 0.875rem 1.5rem;
         font-size: 1rem;
+        min-height: 48px;
+    }
+
+    .page-header h2 {
+        font-size: 1.75rem;
+    }
+
+    .chapters-list {
+        gap: 0.5rem;
+    }
+
+    .chapter-item {
+        padding: 1rem;
+    }
+
+    .reader-header {
+        padding: 1.25rem;
+    }
+
+    .reader-header h2 {
+        font-size: 1.5rem;
+        line-height: 1.4;
     }
 
     .reader-controls {
         flex-direction: column;
+        gap: 0.75rem;
     }
 
     .chapter-selector {
         width: 100%;
         max-width: 100%;
+        font-size: 1rem;
+        padding: 0.875rem;
+        min-height: 48px;
     }
 
-    .nav-links {
-        gap: 1rem;
+    .chapter-content {
+        padding: 2rem 1.25rem;
+        font-size: 1.0625rem;
+        line-height: 1.85;
+        max-width: 100%;
+    }
+    
+    .chapter-content p {
+        margin-bottom: 1.5rem;
+        text-indent: 1em;
+    }
+
+    .nav-buttons {
+        gap: 0.75rem;
+    }
+
+    .footer {
+        padding: 1.5rem 0;
+        font-size: 0.9rem;
     }
 }
 
