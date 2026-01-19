@@ -1,40 +1,75 @@
 import os
 import time
-from google import genai
-from google.genai import types
-from google.genai.errors import ServerError, ClientError
+import re
+from openai import OpenAI
 from pathlib import Path
 
 # ==========================
 # CONFIG
 # ==========================
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gpt-4o"  # or "gpt-4o-mini" for cheaper option
 CN_DIR = Path("cn_chapters")
 EN_DIR = Path("en_chapters")
 EARLY_GLOSSARY = Path("early gloss.txt").read_text(encoding="utf-8")
 LATE_GLOSSARY = Path("Late gloss.txt").read_text(encoding="utf-8")
 STYLE_REFERENCE = Path("Style_reference.txt").read_text(encoding="utf-8")
+UPDATE_GLOSS_FILE = Path("update_gloss.txt")
 
-
-# Safety threshold: if output is suspiciously short, stop
-MIN_OUTPUT_CHARS = 500
+# Load update glossary if it exists
+try:
+    UPDATE_GLOSSARY = UPDATE_GLOSS_FILE.read_text(encoding="utf-8")
+except FileNotFoundError:
+    UPDATE_GLOSSARY = ""
 
 # Retry settings
 MAX_RETRIES = 5
 INITIAL_RETRY_DELAY = 10  # seconds
 
+# Hybrid translation settings
+MAX_OUTPUT_TOKENS = 16000  # OpenAI supports more tokens
+CHUNK_SIZE = 3000  # characters per chunk for fallback mode
+
 # ==========================
 # SETUP
 # ==========================
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 EN_DIR.mkdir(exist_ok=True)
 
 # ==========================
 # PROMPT TEMPLATE
 # ==========================
-def build_prompt(chinese_text):
-    return f"""
+def build_prompt(chinese_text, is_continuation=False, previous_context=""):
+    if is_continuation:
+        return f"""
+Continue translating from where you left off. The previous section ended with:
+---
+{previous_context}
+---
+
+Continue translating the following Chinese text, maintaining consistency:
+
+STRICT RULES:
+1. Use glossary terms EXACTLY as defined.
+2. If a term appears in both glossaries, use the LATE glossary.
+3. Do NOT invent names, realms, races, or titles.
+4. Preserve pacing and paragraph structure.
+5. Do NOT summarize or modernize.
+
+GLOSSARY (LATE — highest priority):
+{LATE_GLOSSARY}
+
+GLOSSARY (EARLY — fallback):
+{EARLY_GLOSSARY}
+
+GLOSSARY (UPDATE — recently added terms):
+{UPDATE_GLOSSARY}
+
+CHINESE TEXT TO CONTINUE:
+{chinese_text}
+""".strip()
+    else:
+        return f"""
 You are a professional web-novel translator.
 
 TASK:
@@ -65,63 +100,165 @@ GLOSSARY (LATE — highest priority):
 GLOSSARY (EARLY — fallback):
 {EARLY_GLOSSARY}
 
+GLOSSARY (UPDATE — recently added terms):
+{UPDATE_GLOSSARY}
+
 CHINESE TEXT:
 {chinese_text}
 """.strip()
+
+# ==========================
+# TRANSLATION HELPERS
+# ==========================
+def translate_with_retry(prompt, attempt_label=""):
+    """Translate with automatic retry on errors"""
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=[
+                    {"role": "system", "content": "You are a professional Chinese-to-English web novel translator."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.2,
+                max_tokens=MAX_OUTPUT_TOKENS
+            )
+            
+            result = response.choices[0].message.content
+            
+            if not result:
+                raise RuntimeError("Empty response from API")
+            
+            return result.strip()
+            
+        except Exception as e:
+            if attempt < MAX_RETRIES - 1:
+                delay = INITIAL_RETRY_DELAY * (2 ** attempt)
+                print(f"  ⚠️ API Error{attempt_label}: {str(e)[:100]}")
+                print(f"  Retrying in {delay}s... (attempt {attempt + 1}/{MAX_RETRIES})")
+                time.sleep(delay)
+            else:
+                print(f"  ❌ Failed after {MAX_RETRIES} attempts")
+                raise
+
+def is_truncated(text, original_length):
+    """Check if translation seems truncated"""
+    # If output is very short compared to input
+    if len(text) < original_length * 0.3:
+        return True
+    # If ends mid-sentence (no proper ending punctuation)
+    if text and not text[-1] in '.!?"\'':
+        return True
+    return False
+
+def split_into_paragraphs(text):
+    """Split Chinese text into natural paragraph chunks"""
+    paragraphs = [p.strip() for p in text.split('\n') if p.strip()]
+    
+    chunks = []
+    current_chunk = []
+    current_length = 0
+    
+    for para in paragraphs:
+        para_length = len(para)
+        
+        if current_length + para_length > CHUNK_SIZE and current_chunk:
+            chunks.append('\n'.join(current_chunk))
+            current_chunk = [para]
+            current_length = para_length
+        else:
+            current_chunk.append(para)
+            current_length += para_length
+    
+    if current_chunk:
+        chunks.append('\n'.join(current_chunk))
+    
+    return chunks
+
+def translate_chapter_hybrid(cn_text, chapter_name):
+    """
+    Chunk-based translation strategy:
+    Split chapter into paragraphs and translate each chunk
+    """
+    print(f"  Strategy: Chunk-based translation...")
+    
+    # Split into chunks
+    chunks = split_into_paragraphs(cn_text)
+    print(f"  Split into {len(chunks)} chunks")
+    
+    translations = []
+    unmapped_terms_list = []
+    
+    for i, chunk in enumerate(chunks, 1):
+        print(f"  Translating chunk {i}/{len(chunks)}...")
+        chunk_prompt = build_prompt(chunk)
+        chunk_translation = translate_with_retry(chunk_prompt, f" (chunk {i})")
+        
+        # Extract unmapped terms if present
+        if "[UNMAPPED_TERMS]" in chunk_translation:
+            parts = chunk_translation.split("[UNMAPPED_TERMS]")
+            clean_translation = parts[0].strip()
+            unmapped_section = parts[1].strip() if len(parts) > 1 else ""
+            
+            # Add to translations without the unmapped section
+            translations.append(clean_translation)
+            
+            # Collect unmapped terms
+            if unmapped_section:
+                unmapped_terms_list.append(f"\n--- From {chapter_name} (chunk {i}) ---\n{unmapped_section}")
+        else:
+            translations.append(chunk_translation)
+        
+        time.sleep(2)  # Small delay between chunks
+    
+    # Save unmapped terms to file if any were found
+    if unmapped_terms_list:
+        try:
+            with open(UPDATE_GLOSS_FILE, "a", encoding="utf-8") as f:
+                f.write(f"\n\n=== {chapter_name} ===\n")
+                f.write("".join(unmapped_terms_list))
+            print(f"  📝 Saved unmapped terms to {UPDATE_GLOSS_FILE}")
+        except Exception as e:
+            print(f"  ⚠️ Could not save unmapped terms: {e}")
+    
+    print(f"  ✓ Complete via chunking")
+    return "\n\n".join(translations)
 
 # ==========================
 # TRANSLATION LOOP
 # ==========================
 for cn_file in sorted(CN_DIR.glob("ch_*.txt")):
     out_file = EN_DIR / cn_file.name
+    
+    # Extract chapter number
+    chapter_num = int(cn_file.stem.split('_')[1])
+    
+    # Skip chapters before 673
+    if chapter_num < 673:
+        continue
 
     # Skip already translated chapters
     if out_file.exists():
         print(f"Skipping {cn_file.name} (already translated)")
         continue
 
-    print(f"Translating {cn_file.name}...")
-
+    print(f"\nTranslating {cn_file.name}...")
+    
     cn_text = cn_file.read_text(encoding="utf-8")
-    prompt = build_prompt(cn_text)
-
-    # Retry loop for API calls
-    for attempt in range(MAX_RETRIES):
-        try:
-            response = client.models.generate_content(
-                model=MODEL_NAME,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.2,
-                    max_output_tokens=8192
-                )
-            )
-            
-            if not response.text:
-                raise RuntimeError(f"Empty response for {cn_file.name}")
-            
-            # Success - break out of retry loop
-            break
-            
-        except (ServerError, ClientError) as e:
-            if attempt < MAX_RETRIES - 1:
-                delay = INITIAL_RETRY_DELAY * (2 ** attempt)  # Exponential backoff
-                print(f"⚠️ API Error: {e}")
-                print(f"Retrying in {delay} seconds... (attempt {attempt + 1}/{MAX_RETRIES})")
-                time.sleep(delay)
-            else:
-                print(f"❌ Failed after {MAX_RETRIES} attempts.")
-                raise
-
-    translated_text = response.text.strip()
-
-    # Safety check for truncation
-    if len(translated_text) < MIN_OUTPUT_CHARS:
-        print("⚠️ WARNING: Output unusually short.")
-        print("Stopping to avoid silent truncation.")
+    print(f"  Input: {len(cn_text)} characters")
+    
+    try:
+        # Use hybrid translation strategy
+        translated_text = translate_chapter_hybrid(cn_text, cn_file.name)
+        
+        # Save result
+        out_file.write_text(translated_text, encoding="utf-8")
+        print(f"  ✓ Saved {out_file.name} ({len(translated_text)} characters)")
+        
+    except Exception as e:
+        print(f"  ❌ Error translating {cn_file.name}: {e}")
+        print(f"  Stopping to prevent data loss")
         break
 
-    out_file.write_text(translated_text, encoding="utf-8")
-    print(f"Saved {out_file.name}")
+print("\n✓ Translation complete!")
 
-print("Done.")
