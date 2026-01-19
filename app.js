@@ -19,12 +19,34 @@ const nextChapterBtn = document.getElementById('nextChapterBtn');
 const prevChapterBtnBottom = document.getElementById('prevChapterBtnBottom');
 const nextChapterBtnBottom = document.getElementById('nextChapterBtnBottom');
 const chapterCount = document.getElementById('chapterCount');
+const themeToggle = document.getElementById('themeToggle');
 
 // Initialize
 async function init() {
     await loadChapters();
     setupEventListeners();
     checkLastRead();
+    initializeTheme();
+}
+
+// Theme management
+function initializeTheme() {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    updateThemeButton(savedTheme);
+}
+
+function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateThemeButton(newTheme);
+}
+
+function updateThemeButton(theme) {
+    themeToggle.textContent = theme === 'dark' ? '☀️ Light' : '🌙 Dark';
 }
 
 // Load chapters from en_chapters folder
@@ -206,6 +228,8 @@ function setupEventListeners() {
             loadChapter(chapters[0].number);
         }
     };
+    
+    themeToggle.onclick = toggleTheme;
     
     prevChapterBtn.onclick = prevChapter;
     nextChapterBtn.onclick = nextChapter;
