@@ -35,10 +35,6 @@ jobs:
           sed -i '$ s/,$//' chapter-list.js
           echo "];" >> chapter-list.js
       
-      - name: Update index.html with chapter list
-        run: |
-          sed -i 's|<script src="app.js"></script>|<script src="chapter-list.js"></script>\n    <script src="app.js"></script>|' index.html
-      
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
