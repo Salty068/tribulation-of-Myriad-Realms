@@ -1,0 +1,52 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Generate chapter list
+        run: |
+          echo "// Auto-generated chapter list" > chapter-list.js
+          echo "const CHAPTER_LIST = [" >> chapter-list.js
+          for file in en_chapters/ch_*.txt; do
+            if [ -f "$file" ]; then
+              basename "$file" | sed 's/^/  "/' | sed 's/$/"/' >> chapter-list.js
+              echo "," >> chapter-list.js
+            fi
+          done
+          # Remove trailing comma
+          sed -i '$ s/,$//' chapter-list.js
+          echo "];" >> chapter-list.js
+      
+      - name: Update index.html with chapter list
+        run: |
+          sed -i 's|<script src="app.js"></script>|<script src="chapter-list.js"></script>\n    <script src="app.js"></script>|' index.html
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

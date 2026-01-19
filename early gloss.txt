@@ -1,0 +1,87 @@
+# =========================
+# CORE EARLY GLOSSARY
+# Chapters ~1–20
+# DO NOT AUTO-EDIT
+# =========================
+
+## Character Names
+苏宇 = Su Yu
+苏龙 = Su Long
+陈浩 = Chen Hao
+刘玥 = Liu Yue
+刘文彦 = Liu Wenyan
+夏龙武 = Xia Longwu
+周破天 = Zhou Potian
+
+## Rulers / Political Figures
+大夏王 = Great Xia King
+大周王 = Great Zhou King
+大明王 = Great Ming King
+
+## Locations & Realms
+安平历 = Anping Calendar
+大夏府 = Great Xia Prefecture
+大周府 = Great Zhou Prefecture
+大明府 = Great Ming Prefecture
+南元城 = Nanyuan City
+诸天战场 = Allheaven Battlefield
+柢山界 = Mount Root Realm
+人境 = Human Realm
+神界 = Divine Realm
+魔界 = Devil Realm
+妖界 = Demon Realm
+
+## Institutions & Organizations
+南元中等学府 = Nanyuan Secondary School
+大夏文明学府 = Great Xia Cultural Research Academy
+龙武战争学府 = Martial Dragon War Academy
+镇魔军 = Devil Subduing Army
+龙武卫 = Martial Dragon Guards
+万族教 = Myriad Race Cult
+缉风堂 = Windcatcher Department
+夏氏商行 = Xia Trade Company
+
+## Academy Types
+战争学府 = War Academy
+文明学府 = Cultural Research Academy
+科研学府 = Scientific Research Academy
+内务学府 = Internal Affairs Academy
+
+## Cultivation Realms (Early Ladder)
+开元 = Source Opening Realm
+千钧 = Great Strength Realm
+万石 = Infinite Strength Realm
+腾空 = Skysoar Realm
+
+## Cultivation Terms & Resources
+元气 = source qi
+精血 = blood essence
+功勋点 = merit points
+窍穴 = acupoints
+意志 = willpower
+意志具现 = willpower materialization
+元气液 = source qi liquid
+天元果 = Heavenly Source Fruit
+学府秘境 = secret grottos
+万族图册 = Myriad Race Compendium
+
+## Techniques & Manuals
+《开元诀》 = Source Opening Codex
+纳元诀 = Source Swallowing Technique
+撕裂 = Rip
+铁翅斩击 = Ironwing Slash
+
+## Races & Creatures (Early)
+万族 = myriad races
+梦魇一族 = nightmare race
+铁翼鸟 = iron-winged bird
+鯥鱼 = Ox-faced fish
+金鹏族 = golden peng race
+蛮牛族 = barbaric bull race
+天虎族 = sky tiger race
+
+## Titles
+府主 = prefect
+城主 = mayor
+执教 = instructor
+府长 = principal

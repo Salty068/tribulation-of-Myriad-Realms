@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribulation of Myriad Realms</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">Tribulation of Myriad Realms</div>
+            <div class="nav-links">
+                <a href="#" id="homeBtn">Home</a>
+                <a href="#" id="chaptersBtn">Chapters</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Home Page -->
+        <div id="homePage" class="page active">
+            <div class="novel-header">
+                <div class="novel-cover">
+                    <div class="cover-placeholder">
+                        <span>万界劫</span>
+                    </div>
+                </div>
+                <div class="novel-info">
+                    <h1 class="novel-title">Tribulation of Myriad Realms</h1>
+                    <p class="novel-author">万界劫</p>
+                    <div class="novel-stats">
+                        <span class="stat"><strong id="chapterCount">0</strong> Chapters</span>
+                    </div>
+                    <div class="novel-actions">
+                        <button class="btn btn-primary" id="startReadingBtn">Start Reading</button>
+                        <button class="btn btn-secondary" id="continueReadingBtn" style="display:none;">Continue Reading</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chapters List Page -->
+        <div id="chaptersListPage" class="page">
+            <div class="page-header">
+                <h2>Chapters</h2>
+            </div>
+            <div id="chaptersList" class="chapters-list">
+                <!-- Chapters will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Reader Page -->
+        <div id="readerPage" class="page">
+            <div class="reader-header">
+                <h2 id="chapterTitle">Loading...</h2>
+            </div>
+            <div class="reader-controls">
+                <button class="btn" id="prevChapterBtn">← Previous</button>
+                <select id="chapterSelector" class="chapter-selector">
+                    <!-- Options will be populated by JavaScript -->
+                </select>
+                <button class="btn" id="nextChapterBtn">Next →</button>
+            </div>
+            <div id="chapterContent" class="chapter-content">
+                <!-- Chapter content will be loaded here -->
+            </div>
+            <div class="reader-controls">
+                <button class="btn" id="prevChapterBtnBottom">← Previous</button>
+                <button class="btn" id="nextChapterBtnBottom">Next →</button>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Tribulation of Myriad Realms | Auto-updated from GitHub</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
