@@ -250,6 +250,35 @@ function setupEventListeners() {
             }
         }
     });
+    
+    // Auto-hide navbar on scroll for mobile
+    let lastScrollTop = 0;
+    const navbar = document.querySelector('.navbar');
+    const scrollThreshold = 10; // Minimum scroll distance to trigger
+    
+    window.addEventListener('scroll', () => {
+        // Only on mobile devices
+        if (window.innerWidth <= 768) {
+            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            
+            if (Math.abs(scrollTop - lastScrollTop) < scrollThreshold) {
+                return; // Don't do anything if scroll is too small
+            }
+            
+            if (scrollTop > lastScrollTop && scrollTop > 100) {
+                // Scrolling down & past threshold
+                navbar.classList.add('hidden');
+            } else {
+                // Scrolling up
+                navbar.classList.remove('hidden');
+            }
+            
+            lastScrollTop = scrollTop;
+        } else {
+            // Always show on desktop
+            navbar.classList.remove('hidden');
+        }
+    });
 }
 
 // Initialize when DOM is ready
