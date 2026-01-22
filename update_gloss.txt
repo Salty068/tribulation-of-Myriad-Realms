@@ -1047,3 +1047,278 @@ Lantian
 --- From ch_705.txt (chunk 4) ---
 混沌山 = Chaos Mountain
 古兽 = ancient beasts
+
+=== ch_706.txt ===
+
+--- From ch_706.txt (chunk 1) ---
+- Dao Origin Mountain
+- Control King's lineage
+- West King's Consort
+--- From ch_706.txt (chunk 2) ---
+- Zhou Taishan
+--- From ch_706.txt (chunk 3) ---
+- Ziyan
+- Hongmeng
+
+=== ch_707.txt ===
+
+--- From ch_707.txt (chunk 1) ---
+- Control King's lineage
+- Marquis Tianyang
+- Xiaguang
+--- From ch_707.txt (chunk 2) ---
+- Yuexi
+--- From ch_707.txt (chunk 3) ---
+- Changhe
+- Tun Tian
+- Kong Kong
+- Jiuyue
+- Shadow Marquis
+- Chaos Mountain
+--- From ch_707.txt (chunk 4) ---
+- Xia Longwu
+
+=== ch_708.txt ===
+
+--- From ch_708.txt (chunk 1) ---
+- Dao Origin Mountain
+- Chaos Mountain
+- Desolate Beast
+- Blue Sky
+--- From ch_708.txt (chunk 2) ---
+- Lantian
+- Dao Origin Mountain
+- Chaos Mountain
+- Jiuyue
+- Grandstar
+- Marquis Dingjun
+- Marquis Shadow
+- Great Ming King
+--- From ch_708.txt (chunk 3) ---
+- Grandstar
+- Lantian
+- Marquis Dingjun
+- Marquis Shadow
+- Marquis Huoyun
+- Divine Fire Mountain
+- Bright Moon Flower Valley
+- Chaos Mountain
+- Jiuyue
+- Iron Devourer Beast
+
+=== ch_709.txt ===
+
+--- From ch_709.txt (chunk 1) ---
+- 定军侯 = Marquis Dingjun
+- 暗影侯 = Shadow Marquis
+- 火云侯 = Marquis Huoyun
+- 云水 = Yunshui
+- 英武 = Yingwu
+--- From ch_709.txt (chunk 2) ---
+- Shadow Marquis
+- Marquis Modang
+- Divine Fire Mountain
+- Marquis Huoyun
+- Land of Dao Source
+- River of Time
+--- From ch_709.txt (chunk 3) ---
+- Marquis Shadow
+- Marquis Huoyun
+- River Ming
+- Chaos Mountain
+--- From ch_709.txt (chunk 4) ---
+- Shadow Marquis
+- Dragon Race
+- Nether Race
+
+=== ch_710.txt ===
+
+--- From ch_710.txt (chunk 1) ---
+- Marquis Shadow
+--- From ch_710.txt (chunk 2) ---
+- Cangshan Ming
+- Shan Qi
+- Jiuyue
+- Grandstar
+- Chaos Mountain
+- Phoenix City
+- Phoenix Head
+- Dragon Tail
+- Golden Dragon Marquis
+- Blood Dragon Marquis
+- Heavenly Dragon Marquis
+- Dragon Emperor
+--- From ch_710.txt (chunk 3) ---
+- Lantian
+- Chongming
+--- From ch_710.txt (chunk 4) ---
+- Longmie
+
+=== ch_711.txt ===
+
+--- From ch_711.txt (chunk 1) ---
+- Marquis Blood Dragon
+- Marquis Golden Dragon
+- Marquis Fengqi
+- Chaos Mountain
+- September
+--- From ch_711.txt (chunk 2) ---
+金龙侯 = Marquis Jinlong
+血龙侯 = Marquis Xuelong
+蓝天 = Lantian
+--- From ch_711.txt (chunk 3) ---
+- 九月 = September
+- 吞天 = Tun Tian
+- 金龙城 = Golden Dragon City
+- 血龙城 = Blood Dragon City
+- 血龙侯 = Blood Dragon Marquis
+- 风龙 = Wind Dragon
+- 龙灭 = Dragon Extinction
+- 重明 = Chongming
+- 凤岐侯 = Marquis of Fengqi
+--- From ch_711.txt (chunk 4) ---
+- Chaos Mountain
+- Marquis Blood Severance
+- Marquis Feng Qi
+- Marquis Dingjun
+- Divine Fire Mountain
+
+=== ch_712.txt ===
+
+--- From ch_712.txt (chunk 1) ---
+- Bajue
+- Marquis Huoyun
+- Lord of Sacred Nether Dao
+- Chaos Race
+- Dao Source Land
+--- From ch_712.txt (chunk 2) ---
+- Huoyun
+- Huoyun Mountain
+- Divine Fire Mountain
+- Chaos Mountain
+- Dao Origin Mountain
+- Control King's lineage
+--- From ch_712.txt (chunk 3) ---
+- Chaos Mountain
+- Land of Daoyuan
+- Marquis Giant Bamboo
+- Marquis Huoyun
+- Shadow
+- April
+- May
+- March
+- January
+- February
+- July
+- Ninth Tide
+- Third Tide
+--- From ch_712.txt (chunk 4) ---
+- Jiuyue
+
+=== ch_713.txt ===
+
+--- From ch_713.txt (chunk 1) ---
+- Tian Cave Ridge
+--- From ch_713.txt (chunk 2) ---
+- Tiankuling
+- Marquis Zhennan
+- General Wenqi
+- Marquis Juzhu
+- Land of Dao Source
+- Blood Dragon Marquis
+- Marquis Wen'an
+--- From ch_713.txt (chunk 3) ---
+文起 = Wen Qi
+镇南侯 = Marquis Zhennan
+巨竹侯 = Marquis Giant Bamboo
+道源之地 = Dao Source Land
+三月 = March
+四月 = April
+五月 = May
+圆月 = Full Moon
+九月 = September
+六月 = June
+食铁令 = Iron Devourer Token
+兽皇 = Beast Emperor
+合道 = Daofuse
+诸天万界 = Myriad Realms
+--- From ch_713.txt (chunk 4) ---
+- Hongmeng
+- Marquis Giant Bamboo
+- Wen Qi
+- Marquis Zhennan
+
+=== ch_714.txt ===
+
+--- From ch_714.txt (chunk 1) ---
+巨竹侯 = Marquis Giant Bamboo
+四月 = April
+五月 = May
+圆月 = Full Moon
+文起 = Wen Qi
+镇南侯 = Marquis Zhennan
+六月 = June
+--- From ch_714.txt (chunk 2) ---
+- Wen Qi
+- Marquis Zhennan
+- Marquis Blood Dragon
+- Full Moon
+--- From ch_714.txt (chunk 3) ---
+巨竹侯 = Marquis of Giant Bamboo
+人山 = Ren Mountain
+--- From ch_714.txt (chunk 4) ---
+巨竹侯 = Marquis Giant Bamboo
+九月 = Jiuyue
+文起 = Wenqi
+镇南侯 = Marquis Zhennan
+
+=== ch_715.txt ===
+
+--- From ch_715.txt (chunk 1) ---
+- 巨竹侯 = Marquis Giant Bamboo
+- 重明 = Chongming
+--- From ch_715.txt (chunk 2) ---
+- Fishhead Monster
+- Soul Burying Mountain
+- Source of the Dao
+- Yixian Gorge
+- Tiankuling
+- Divine Fire Mountain
+- Time Waterfall
+- Starfall Mountain
+--- From ch_715.txt (chunk 3) ---
+- General Yingwu
+- One-Line Gorge
+--- From ch_715.txt (chunk 4) ---
+英武将军 = General Yingwu
+
+=== ch_716.txt ===
+
+--- From ch_716.txt (chunk 1) ---
+- 英武将军 = General Yingwu
+- 定军侯 = Marquis Dingjun
+- 一线峡 = First Line Gorge
+- 周天生 = Zhou Tiansheng
+--- From ch_716.txt (chunk 2) ---
+道源之地 = Source of the Dao
+一线峡 = Yixian Gorge
+镇南侯 = Marquis Zhennan
+定军侯 = Marquis Dingjun
+暗影侯 = Marquis of Shadows
+火云侯 = Marquis Huoyun
+云水侯 = Marquis Yunshui
+--- From ch_716.txt (chunk 3) ---
+- Yingwu
+- Zhou Tiansheng
+- Yunshui
+- Zhennan
+- Huoyun
+- Shadow
+- Fuchen River
+- Yixian Gorge
+- Water Path
+- Fire Path
+- Five Elemental Paths
+- Minshan
+- Hongmeng
+- Path of Endurance
