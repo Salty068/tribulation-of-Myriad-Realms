@@ -1322,3 +1322,368 @@ Lantian
 - Minshan
 - Hongmeng
 - Path of Endurance
+
+=== ch_717.txt ===
+
+--- From ch_717.txt (chunk 1) ---
+- 月罗 = Moon Luo
+- 紫烟 = Ziyan
+--- From ch_717.txt (chunk 2) ---
+- Shadow Marquis
+- Marquis Huoyun
+- Marquis Yunshui
+- General Yingwu
+- Marquis Dingjun
+- Zhou Tiansheng
+--- From ch_717.txt (chunk 3) ---
+- Huoyun
+- Marquis Zhennan
+- Marquis Yunshui
+- General Yingwu
+- Tiankuling
+- Lantian
+--- From ch_717.txt (chunk 4) ---
+- Wen Qi
+
+=== ch_718.txt ===
+
+--- From ch_718.txt (chunk 1) ---
+- Tiankuling
+- Yunshui Marquis
+- Shadow Marquis
+- Lantian
+- General Yingwu
+- Marquis Huoyun
+- Wen Qi
+- Marquis Zhennan
+--- From ch_718.txt (chunk 2) ---
+- Tianhekou
+--- From ch_718.txt (chunk 3) ---
+- Great Dao
+- Source of the Dao
+- Luminous Domain Mansion
+--- From ch_718.txt (chunk 4) ---
+- 光幕 (light curtain)
+
+=== ch_719.txt ===
+
+--- From ch_719.txt (chunk 1) ---
+- Xingyue
+--- From ch_719.txt (chunk 2) ---
+- 小石头 (Little Stone)
+- 人主印 (Human Lord Seal)
+--- From ch_719.txt (chunk 3) ---
+- None
+
+=== ch_720.txt ===
+
+--- From ch_720.txt (chunk 1) ---
+- Yue Luo
+--- From ch_720.txt (chunk 2) ---
+- Hundred Battle King
+- Control King's lineage
+- Little Stone
+--- From ch_720.txt (chunk 3) ---
+- Wuming
+
+=== ch_721.txt ===
+
+--- From ch_721.txt (chunk 1) ---
+- Chaos Mountain
+- pen dao
+- Great Dao
+- River of Time
+- Culture Tomb
+- Human Lord Seal
+- Mark of Civilization
+--- From ch_721.txt (chunk 2) ---
+- Wen Qi
+- Marquis Zhennan
+- Dao Source Land
+- Heaven Gate
+- River of Time
+- quasi-king realm
+- Daofuse Realm
+--- From ch_721.txt (chunk 3) ---
+- 天命侯 = Destiny Marquis
+- 镇南侯 = Marquis Zhennan
+- 三月 = March
+- 一月 = January
+- 二月 = February
+--- From ch_721.txt (chunk 4) ---
+- Bingku
+- Danyu
+
+=== ch_722.txt ===
+
+--- From ch_722.txt (chunk 1) ---
+- Ziyan
+--- From ch_722.txt (chunk 2) ---
+- Shadow Marquis
+- General Yingwu
+- Zhou Tiansheng
+--- From ch_722.txt (chunk 3) ---
+- 灵皇 = Spirit Emperor
+- 金翅大鹏皇 = Golden-winged Roc Emperor
+- 冥皇 = Nether Emperor
+- 三头魔狼 = Three-headed Demon Wolf
+- 陨星侯 = Marquis Falling Star
+- 魔荡侯 = Marquis Devil Dance
+- 凤皇 = Phoenix Emperor
+- 猿皇 = Ape Emperor
+- 天龙侯 = Heavenly Dragon Marquis
+- 龙皇 = Dragon Emperor
+- 镇南侯 = Marquis Zhennan
+- 文起 = Wen Qi
+
+=== ch_723.txt ===
+
+--- From ch_723.txt (chunk 1) ---
+- Ziyan
+--- From ch_723.txt (chunk 2) ---
+- Dao Yu
+- Yulei
+- Hundred Battle
+- Immortal Battle
+- Blood Severance
+- Doubao
+- Hongmeng
+- March
+- Giant Bamboo
+- Meteor
+- Demon Turmoil
+- Physical Dao
+--- From ch_723.txt (chunk 3) ---
+- Little Stone
+- Daoyu
+- Yulei
+- Blood Demon
+--- From ch_723.txt (chunk 4) ---
+- Daoyu
+
+=== ch_724.txt ===
+
+--- From ch_724.txt (chunk 1) ---
+- Dao Yu
+- Marquis Motian
+--- From ch_724.txt (chunk 2) ---
+- Dao Yu
+- Blood Demon
+- Moon Luo
+- Demon Marquis
+--- From ch_724.txt (chunk 3) ---
+- Ziyan
+- Mo Tian
+- Heavenly Venerable Mo
+- Heavenly Venerable Ming
+- March
+--- From ch_724.txt (chunk 4) ---
+- March
+- Hundred Battle
+- Demon Heaven Sovereign
+- Source of the Dao
+- Marquis Giant Bamboo
+- April
+- May
+- September
+- Full Moon
+- Blue Sky
+- Emperor Yu
+
+=== ch_725.txt ===
+
+--- From ch_725.txt (chunk 1) ---
+- Mota Tianzun
+- Yue Luo
+- Yue Tianzun
+--- From ch_725.txt (chunk 2) ---
+- Moon Heavenly Venerable
+- Sky Heavenly Venerable
+- Chaos Race
+- Land of Great Waves
+- Little Stone
+- Human Emperor's Dao
+- Human Emperor
+- Moon Luo
+--- From ch_725.txt (chunk 3) ---
+- Mo Tianzun
+- Moon Tianzun
+- Yue Luo
+- Bai Zhan
+- Bingku
+- Minshan
+--- From ch_725.txt (chunk 4) ---
+- Xingyue
+- Lantian
+- Little Stone
+- Book of Time
+- Heaven Gate
+- Human Emperor
+- Luminous Domain Mansion
+
+=== ch_726.txt ===
+
+--- From ch_726.txt (chunk 1) ---
+- Little Stone
+--- From ch_726.txt (chunk 3) ---
+- Xingyu
+- Xingyue
+
+=== ch_727.txt ===
+
+--- From ch_727.txt (chunk 1) ---
+- 岳王 = King Yue
+- 恭王 = King Gong
+- 平王 = King Ping
+- 云水侯 = Marquis Yunshui
+- 英武将军 = General Yingwu
+--- From ch_727.txt (chunk 2) ---
+- King Yue
+- Marquis Huoyun
+- Great Zhou King
+- Xingyu Imprint
+- Xingyu
+- Dao Diagram
+- Celestial
+- Xingyu Imprint
+--- From ch_727.txt (chunk 3) ---
+- 通天侯 = Marquis Tongtian
+- 武皇 = Martial Emperor
+- 星宇印 = Luminous Domain Seal
+- 蓝天 = Lantian
+
+=== ch_728.txt ===
+
+--- From ch_728.txt (chunk 1) ---
+- Mo Tianzun
+- Yue Tianzun
+- Ming Tianzun
+- Huang Tianzun
+- Mo Tian
+- Hundred Battle
+- Marquis Dingjun
+- Ziyan
+- Hongding
+- March
+- Tianming
+- Yue Luo
+--- From ch_728.txt (chunk 2) ---
+- Yue Luo
+- Bingku
+- Danyu
+--- From ch_728.txt (chunk 3) ---
+- Ziyan
+- Yue Luo
+- Chaos Mountain
+- Gate of Hell
+- Control King
+- Torchbearers
+- Hundred Battle King
+
+=== ch_729.txt ===
+
+--- From ch_729.txt (chunk 1) ---
+- 通天侯 = Marquis Tongtian
+- 定军 = Marquis Dingjun
+- 暗影 = Shadow Marquis
+- 火云 = Marquis Huoyun
+- 云水 = Marquis Yunshui
+- 英武 = General Yingwu
+- 大周王 = Great Zhou King
+- 蓝天 = Lantian
+- 武皇 = Martial Emperor
+- 武王 = Martial King
+- 恭王 = King Gong
+--- From ch_729.txt (chunk 2) ---
+- 通天侯 = Tongtian Marquis
+- 武皇 = Martial Emperor
+- 人祖 = Human Ancestor
+- 太山 = Taishan
+--- From ch_729.txt (chunk 3) ---
+- 武皇 = Martial Emperor
+- 狱王 = Control King
+- 地狱之门 = Gate of Hell
+- 通天侯 = Marquis Tongtian
+
+=== ch_730.txt ===
+
+--- From ch_730.txt (chunk 1) ---
+- Tongtian
+- Hetu
+- Yingwu
+- Lantian
+--- From ch_730.txt (chunk 2) ---
+- Dragonblood Marquis
+- Marquis Lanshan
+- Hetu
+- Marquis Tongtian
+- Marquis Zhengyang
+- Marquis Dingjun
+- Marquis Modang
+- Marquis Huoyun
+- Marquis Zhennan
+- Marquis Giant Bamboo
+- Marquis Wen'an
+- Marquis of Fengqi
+- Marquis of Blood Severance
+- Marquis of Immortal War
+- Marquis of Shadows
+- Marquis of Anbei
+- Marquis of Leixiao
+- Marquis of Stabilization
+- Marquis of Steadfast Army
+- Marquis of Military Order
+- Marquis of Dingjun
+- Marquis of Minshan
+- Marquis of Blood Severance
+- Marquis of Immortal War
+- Marquis of Shadows
+- Marquis of Anbei
+- Marquis of Leixiao
+- Marquis of Stabilization
+- Marquis of Steadfast Army
+- Marquis of Military Order
+- Marquis of Dingjun
+- Marquis of Minshan
+- Marquis of Blood Severance
+- Marquis of Immortal War
+- Marquis of Shadows
+- Marquis of Anbei
+- Marquis of Leixiao
+- Marquis of Stabilization
+- Marquis of Steadfast Army
+- Marquis of Military Order
+- Marquis of Dingjun
+- Marquis of Minshan
+--- From ch_730.txt (chunk 3) ---
+通天侯 = Marquis Tongtian
+多宝 = Duobao
+书灵 = Book Spirit
+茶树 = Tea Plant
+噬神族 = Iron Devourer Race
+大毛球 = big furball
+小白狗 = White Dog
+肥球 = Fat Ball
+大木头 = Big Wood
+星宇印 = Starry Sky Seal
+人主印 = Human Lord Seal
+小石头 = Little Stone
+豆包 = Doubao
+小毛球 = small furball
+香香 = Xiangxiang
+意志海 = sea of will
+鸿蒙 = Hongmeng
+蓝天 = Lantian
+宇皇府 = Luminous Domain Mansion
+天尊 = Heavenly Sovereign
+三月 = March
+巨竹侯 = Marquis Giant Bamboo
+天命侯 = Marquis Destiny
+命族 = Fate Clan
+大道图 = map of the Great Dao
+荒天兽 = Desolate Beast
+狱王 = Control King
+混沌山 = Chaos Mountain
+天灭 = Heavendoom
+--- From ch_730.txt (chunk 4) ---
+- Grandstar
