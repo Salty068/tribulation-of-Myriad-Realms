@@ -1687,3 +1687,645 @@ Lantian
 天灭 = Heavendoom
 --- From ch_730.txt (chunk 4) ---
 - Grandstar
+
+=== ch_731.txt ===
+
+--- From ch_731.txt (chunk 1) ---
+- Zhou Tianqi
+- Lanshan
+- Marquis Lanshan
+--- From ch_731.txt (chunk 2) ---
+- Great Zhou King
+--- From ch_731.txt (chunk 3) ---
+Great Zhou King
+Heavendoom
+Grandstar
+Lantian
+Doubao
+Fat Ball
+Big Wood
+Marquis Giant Bamboo
+Marquis Huoyun
+Marquis Yunshui
+Marquis Modang
+Marquis Zhengyang
+Marquis Tongtian
+Marquis Lanshan
+Marquis Minshan
+Marquis Wen'an
+Marquis of Fengqi
+Marquis of Blood Severance
+Marquis of Immortal War
+Marquis of Shadows
+Marquis of Anbei
+Marquis of Leixiao
+Marquis of Stabilization
+Marquis of Steadfast Army
+Marquis of Military Order
+Marquis of Dingjun
+Marquis of Minshan
+Marquis of Blood Severance
+Marquis of Immortal War
+Marquis of Shadows
+Marquis of Anbei
+Marquis of Leixiao
+Marquis of Stabilization
+Marquis of Steadfast Army
+Marquis of Military Order
+Marquis of Dingjun
+Marquis of Minshan
+Marquis of Blood Severance
+Marquis of Immortal War
+Marquis of Shadows
+Marquis of Anbei
+Marquis of Leixiao
+Marquis of Stabilization
+Marquis of Steadfast Army
+Marquis of Military Order
+Marquis of Dingjun
+Marquis of Minshan
+--- From ch_731.txt (chunk 4) ---
+- Flatbread
+
+=== ch_732.txt ===
+
+--- From ch_732.txt (chunk 1) ---
+- Old Turtle
+--- From ch_732.txt (chunk 2) ---
+- Duobao
+- Marquis Zhennan
+- East Rift Valley
+- Hundred Battle King
+- Wen Qi
+- Iron Devourer Race
+--- From ch_732.txt (chunk 3) ---
+- Marquis Zhennan
+- Ren Mountain
+- Moon Luo
+--- From ch_732.txt (chunk 4) ---
+- Moon Luo
+
+=== ch_733.txt ===
+
+--- From ch_733.txt (chunk 1) ---
+- Lantian
+- Heavendoom
+- Grandstar
+- Bamboo Mountain
+- Marquis Giant Bamboo
+- March
+- April
+- May
+- Full Moon
+- September
+- Mo Tianzun
+- Yue Tianzun
+--- From ch_733.txt (chunk 2) ---
+- None
+--- From ch_733.txt (chunk 3) ---
+- Ren Mountain
+--- From ch_733.txt (chunk 4) ---
+Ren Mountain
+
+=== ch_734.txt ===
+
+--- From ch_734.txt (chunk 1) ---
+- Ren Mountain
+- Bamboo Mountain
+- Demon Heaven
+- Hundred Battle
+- Ninth Tide
+- July
+- April
+- Full Moon
+- Iron Devourer Race
+--- From ch_734.txt (chunk 2) ---
+- Ren Mountain
+- March
+- April
+- Thunderstorm
+- Ming Heavenly Venerable
+- Source of the Dao
+- Iron Devourer Race
+--- From ch_734.txt (chunk 3) ---
+- Mo Tianzun
+- Thunderstorm
+- Moon Heavenly Sovereign
+- March
+- April
+- May
+- Full Moon
+- Bamboo Mountain
+- Longju
+- Chaos Mountain
+--- From ch_734.txt (chunk 4) ---
+- Ren Mountain
+
+=== ch_735.txt ===
+
+--- From ch_735.txt (chunk 1) ---
+- Yue Hao
+- Yue Luo
+- Yuxi
+- Zishui
+- Youzhen
+- Dou Ke
+- Ren Mountain
+- Dao Source Land
+- Gate of Hell
+--- From ch_735.txt (chunk 2) ---
+- Yu Xi
+- Dou Ke
+- Zi Shui
+- Yuehao
+- Ming Le
+- Ming Tu
+- Rift Sky
+--- From ch_735.txt (chunk 3) ---
+- March
+- April
+- Ren Mountain
+- Dou Ke
+- Yuxi
+- Yuehao
+- Jiuyue
+--- From ch_735.txt (chunk 4) ---
+- Lantian
+- March
+- Heaven Gate
+- Control King's lineage
+- Torchbearer lineage
+- Chaos Race
+- Moon Luo
+- Heavenly Venerable Mo
+
+=== ch_736.txt ===
+
+--- From ch_736.txt (chunk 1) ---
+- Ren Mountain
+- Myriad Race Mountain
+--- From ch_736.txt (chunk 2) ---
+Ren Mountain
+Ming Le
+Dao Source Land
+--- From ch_736.txt (chunk 3) ---
+- Bamboo Mountain
+- Bamboo Mountain Dojo
+- Dao Source Land
+- Dao Rhyme
+- Fate Clan
+- Fate Emperor
+- Fate Clan's token
+- Full Moon
+- Heavenly Soldier
+- Iron Devourer Race
+- Lantian
+- March
+- Marquis Destiny
+- Myriad Race Mountain
+- Nether Clan
+- Space Ancient Beasts
+- Su Yu
+- Tian Ce
+- Wuming
+
+=== ch_737.txt ===
+
+--- From ch_737.txt (chunk 1) ---
+- Flatbread
+- Ren Mountain
+- Thunderstorm
+--- From ch_737.txt (chunk 2) ---
+- Mo Tianzun
+- Yue Tianzun
+- Ren Mountain
+- Chaos Race
+- Torchbearer lineage
+- Nether Race
+- Marquis Lie Kong
+- Kong Kong
+--- From ch_737.txt (chunk 3) ---
+- Kong Kong
+- Marquis Lie Kong
+- Ren Mountain
+- Chaos Mountain
+- Wuming
+--- From ch_737.txt (chunk 4) ---
+- Splitting Sky Marquis
+- Kong Kong
+
+=== ch_738.txt ===
+
+--- From ch_738.txt (chunk 1) ---
+- Kong Kong
+--- From ch_738.txt (chunk 2) ---
+裂空侯 = Lie Konghou
+冥天尊 = Ming Tianzun
+人主 = Human Lord
+星宇印 = Xingyu Imprint
+--- From ch_738.txt (chunk 3) ---
+- Lie Kong Marquis
+- Marquis Tongtian
+--- From ch_738.txt (chunk 4) ---
+- Rift Sky
+- Kong Kong
+
+=== ch_739.txt ===
+
+--- From ch_739.txt (chunk 1) ---
+- Lantian
+- Xia Longwu
+- Hu Xiansheng
+- Marquis Dingjun
+- Extermination King
+- Marquis Liekong
+- Director Wan
+- Chaos Mountain
+- Control King
+- Gate of Hell
+- Culture King
+- Human Emperor
+- Four Extremes Human Kings
+- Demon Emperor
+- Wen Qi
+--- From ch_739.txt (chunk 2) ---
+- Extermination King
+- Great Zhou King
+- Wan Tiansheng
+- Emperor Yu
+- Changhe
+- Destiny Marquis
+- Fate Clan
+- Fate Emperor
+- Soul Burying Mountain
+- Starry Sky Seal
+--- From ch_739.txt (chunk 3) ---
+- Gluttonous Race
+--- From ch_739.txt (chunk 4) ---
+- Yue Gang
+- Minshan
+- Bingku
+- Danyu
+- Marquis Tianyang
+- Marquis Dingbei
+- Marquis Yuyang
+- Ren Mountain
+
+=== ch_740.txt ===
+
+--- From ch_740.txt (chunk 1) ---
+- Dou Yi Marquis
+- Yue Gang
+--- From ch_740.txt (chunk 2) ---
+- Mo Tianzun
+- Tianming
+- Huang Tianzun
+- Thunderstorm
+- Moon Tianzun
+- Dou Ling Marquis
+--- From ch_740.txt (chunk 3) ---
+- Marquis Eclipse
+- Heavenly Venerable Moon
+- Thunderstorm
+- Marquis Golden Fire
+- Land of Dao Source
+- Myriad Race Mountain
+- Nine-Winged Skywing Race
+- Marquis Bonewing
+- Heavenly Venerable Mo
+- Ten Thousand Laws Tower
+- pseudo-dao
+- Heavenly Venerable
+- Daofuse
+--- From ch_740.txt (chunk 4) ---
+- Pseudo-Dao
+- Qi deviation
+
+=== ch_741.txt ===
+
+--- From ch_741.txt (chunk 1) ---
+- Qi Rong
+- Yue Gang
+--- From ch_741.txt (chunk 2) ---
+- Moon Heavenly Venerable
+- Mo Heavenly Venerable
+- Six Wings Marquis
+- Bone Wing Marquis
+- Chaos Race
+--- From ch_741.txt (chunk 3) ---
+六翼 = Six Wings
+霜神侯 = Frost God Marquis
+骨翼侯 = Bone Wing Marquis
+月天尊 = Moon Heavenly Venerable
+月食侯 = Moon Eclipse Marquis
+雷暴 = Thunderstorm
+摩天尊 = Heavenly Venerable Mo
+三月 = March
+--- From ch_741.txt (chunk 4) ---
+- Yue Hao
+- Mo Tianzun
+- Six Wings
+
+=== ch_742.txt ===
+
+--- From ch_742.txt (chunk 2) ---
+- Mo Tianzun
+- Yue Tianzun
+- Six Wings
+- Lantian
+- Zhou Tiandao
+- Chaos Race
+- Control King's lineage
+- Marquis Bonewing
+--- From ch_742.txt (chunk 3) ---
+- 月天尊 = Moon Heavenly Venerable
+- 摩天尊 = Mo Tianzun
+- 灭蚕王 = Extermination King
+- 紫烟 = Ziyan
+- 炎火魔皇 = Flame Demon Emperor
+- 六翼 = Six Wings
+- 骨翼侯 = Bone Wing Marquis
+- 兵窟 = Bingku
+- 丹玉 = Danyu
+- 月罗 = Moon Luo
+- 伪道 = pseudo-dao
+- 武皇 = Martial Emperor
+--- From ch_742.txt (chunk 4) ---
+- Chaos Mountain
+- Chaos Race
+- Forbidden Heaven Formation
+- Torchbearer lineage
+- pseudo-dao experts
+- Great Dao
+- Bone Wing Marquis
+- Six Wings
+- March
+- Thunderstorm
+- Hundred Battle
+- Giant Race
+- Destiny
+- Daofuse Realm
+- Marquis Tongtian
+- Lantian
+
+=== ch_743.txt ===
+
+--- From ch_743.txt (chunk 1) ---
+- 蓝天 = Lantian
+- 灭蚕王 = Extermination King
+- 文起 = Wen Qi
+- 百战 = Hundred Battle
+- 月罗 = Moon Luo
+- 六翼 = Six Wings
+- 骨翼侯 = Bone Wing Marquis
+- 雷暴 = Thunderstorm
+- 天命 = Destiny
+- 寂无 = Jiwu
+- 魔戟 = Demon Halberd
+--- From ch_743.txt (chunk 2) ---
+- Jiwu
+- Tiangu
+- Demon Halberd
+- March
+- Six Wings
+- Qi Rong
+- Yue Gang
+- Consort Qi
+- Consort Qi
+- Human Lord
+- Human Emperor
+- Great Dao
+- pseudo-path
+- quasi-king realm
+--- From ch_743.txt (chunk 3) ---
+- Qi Rong
+- Yue Gang
+- Marquis Dingbei
+- Marquis Wushan
+- Yue Qi
+--- From ch_743.txt (chunk 4) ---
+- Yue Gang
+- Consort Qi
+- Qirong
+
+=== ch_744.txt ===
+
+--- From ch_744.txt (chunk 2) ---
+- Mo Tianzun
+- Marquis Nanxi
+- Marquis Dongqi
+- Thunderstorm
+- Desolate Tianzun
+- Destiny Marquis
+- Marquis Giant Axe
+--- From ch_744.txt (chunk 4) ---
+- Source of the Dao
+
+=== ch_745.txt ===
+
+--- From ch_745.txt (chunk 1) ---
+- Ren Mountain
+- Marquis Yuan Sheng
+- Marquis Nine Absolutes
+--- From ch_745.txt (chunk 2) ---
+- Marquis Nine Absolutes
+- Chaos Mountain
+- Iron Devourer Vanguard
+- Full Moon
+- Ren Mountain
+- Marquis Purple Lightning
+- Marquis Flash Spirit
+- Marquis Death Nether
+- Tian Ce
+- Lei Lie
+- Earthquake Guardian
+- Mountain Giant Race
+- Mo Heavenly Sovereign
+- Giant Axe Marquis
+--- From ch_745.txt (chunk 3) ---
+- Tian Ce
+- Marquis Zidian
+- Dao Origin Mountain
+- Chaos Mountain
+- Marquis Anbei
+- Marquis of Death
+--- From ch_745.txt (chunk 4) ---
+- Tiance
+- Changhe
+
+=== ch_746.txt ===
+
+--- From ch_746.txt (chunk 1) ---
+- Tiance
+- Changhe
+- Jiuyue
+- Dao Origin Mountain
+- Chaos Mountain
+- Lantian
+- Marquis Anbei
+--- From ch_746.txt (chunk 2) ---
+- Lan Tian
+- Dao Origin Mountain
+- Chaos Mountain
+- Fat Ball
+- Control King
+- Dao Ming Marquis
+- Immortal Saint Marquis
+- Heavenly Sovereign Yue
+- Dao Heavenly Sovereign
+- Daoist March
+- Daoist Destiny
+- Daoist Thunderstorm
+- Marquis Anbei
+--- From ch_746.txt (chunk 3) ---
+- Marquis Daoming
+- Dao Heavenly Sovereign
+- Bingku
+- Danyu
+- Desolate Heavenly Sovereign
+- Marquis Desolate
+- Mo Heavenly Sovereign
+- Marquis Nanxi
+- General Xuelan
+- Marquis Giant Axe
+- King Gong
+- King Yue
+- Martial Emperor
+- Martial King
+- Luminous Domain Mansion
+- Heaven-penetrating Aperture
+
+=== ch_747.txt ===
+
+--- From ch_747.txt (chunk 1) ---
+- 月天尊 = Moon Heavenly Sovereign
+- 巨斧侯 = Marquis Giant Axe
+- 雪兰将军 = General Xuelan
+- 南溪侯 = Marquis Nanxi
+- 月食 = Moon Eater
+--- From ch_747.txt (chunk 2) ---
+- 月天尊 (Moon Heavenly Venerable)
+- 巨斧侯 (Giant Axe Marquis)
+- 雪兰 (Xuelan)
+- 南溪侯 (Marquis Nanxi)
+- 月食侯 (Moon Eclipse Marquis)
+- 兵窟 (Bingku)
+- 天命侯 (Destiny Marquis)
+- 通天侯 (Marquis Tongtian)
+- 蓝天 (Lantian)
+--- From ch_747.txt (chunk 3) ---
+- Xuelan
+- Marquis Nanxi
+- Marquis Yue Shi
+- Jiang Hai
+- Marquis Giant Axe
+- Marquis Huoyun
+- Marquis Tongtian
+- May
+- Full Moon
+--- From ch_747.txt (chunk 4) ---
+- Chaos Race
+- Chaos Mountain
+- Heavenly Sovereigns
+- Marquis Huoyun
+- General Xuelan
+- Director Wan
+- Fat Ball
+
+=== ch_748.txt ===
+
+--- From ch_748.txt (chunk 1) ---
+- Qirong
+- Yue Gang
+- Thunderstorm
+- Marquis Yunshui
+- Moon Luo
+--- From ch_748.txt (chunk 2) ---
+- Qi Rong
+- Yue Gang
+- Jiang Hai
+- Yue Luo
+- Zhu Tianfang
+- Zhu Tiandao
+- Moon Heavenly Venerable
+--- From ch_748.txt (chunk 3) ---
+- Moon Luo
+- Jiang Hai
+- Qi Rong
+- Yue Gang
+- Moon Heavenly Sovereign
+- Yue Hao
+- Bingku
+--- From ch_748.txt (chunk 4) ---
+- March
+- Moon Luo
+
+=== ch_749.txt ===
+
+--- From ch_749.txt (chunk 1) ---
+- Ren Mountain
+- Marquis Giant Bamboo
+- Qirong
+- Moon Luo
+- Fate Clan
+- Ancient Giant Race
+- Human Ancestor
+- Hongmeng
+--- From ch_749.txt (chunk 2) ---
+- Marquis Giant Bamboo
+- Consort Qi
+- Hundred Battle
+- Moon Luo
+- Chaos Mountain
+- Torchbearer lineage
+--- From ch_749.txt (chunk 3) ---
+- 雪兰 = Xuelan
+- 琪蓉 = Qirong
+- 巨斧侯 = Marquis Giant Axe
+--- From ch_749.txt (chunk 4) ---
+- Yuehao
+- Yueqin
+- March
+
+=== ch_750.txt ===
+
+--- From ch_750.txt (chunk 1) ---
+- Yue Hao
+- Yue Qin
+- Dou Kou
+- Zi Shui
+- Yue Xi
+- You Zhen
+- Chaos Mountain
+- Sacred Race
+--- From ch_750.txt (chunk 2) ---
+- Dou Kou
+- Zishui
+- Doubao
+- Flatbread
+- Tiangu
+- Jianghai
+- Xuelan
+- Nanxi
+- Wushan
+--- From ch_750.txt (chunk 3) ---
+- Yue Hao
+- Zishui
+- Shadow Marquis
+- Yunshui
+- Jianghai
+- Wushan
+- Youzhen
+- Xuelan
+- Nanxi
+- Yuxi
+--- From ch_750.txt (chunk 4) ---
+- Yuehao
+- Yuxi
+- Yueqin
+- Mist Mountain
+- Zishui
+- Yunshui
+- Jiang Hai
+- Yue Tianzun
+- Desolate Heavenly Sovereign
