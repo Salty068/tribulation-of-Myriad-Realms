@@ -2329,3 +2329,557 @@ Dao Source Land
 - Jiang Hai
 - Yue Tianzun
 - Desolate Heavenly Sovereign
+
+=== ch_751.txt ===
+
+--- From ch_751.txt (chunk 1) ---
+- Yuehao
+- March
+--- From ch_751.txt (chunk 2) ---
+- 雷暴 (Thunderstorm)
+- 冥天尊 (Heavendoom)
+- 月天尊 (Moon Heavenly Venerable)
+- 三月 (March)
+- 雪兰 (Xuelan)
+- 幽镇 (Youzhen)
+- 雪兰将军 (General Xuelan)
+- 道天尊 (Dao Heavenly Venerable)
+- 荒天尊 (Desolate Heavenly Venerable)
+- 天龙侯 (Heavenly Dragon Marquis)
+- 玉龙侯 (Jade Dragon Marquis)
+- 月昊 (Yuehao)
+- 人山 (Ren Mountain)
+- 日冕天尊 (Coronal Heavenly Venerable)
+- 混沌山 (Chaos Mountain)
+- 混沌森林 (Chaos Forest)
+- 神族 (Divine Race)
+- 仙族 (Immortal Race)
+- 魔族 (Demon Race)
+- 凤皇 (Phoenix Emperor)
+- 周天道 (Zhou Tiandao)
+- 周天 (Zhou Tian)
+--- From ch_751.txt (chunk 3) ---
+- Heavenly Dragon Marquis
+- Moon Heavenly Venerable
+- Demon Heavenly Venerable
+- Sun Corona Heavenly Venerable
+- Dao Heavenly Venerable
+- Destiny Marquis
+- March
+- Giant Axe Marquis
+- Nanxi
+--- From ch_751.txt (chunk 4) ---
+- Giant Axe
+- Moon Luo
+- Moon Hao
+
+=== ch_752.txt ===
+
+--- From ch_752.txt (chunk 1) ---
+- 百战 = Hundred Battle
+- 南溪侯 = Marquis Nanxi
+- 雪兰将军 = General Xuelan
+- 星宇印 = Starry Sky Seal
+- 巨斧 = Giant Axe
+- 三月 = March
+- 肥球 = Fat Ball
+- 豆包 = Doubao
+--- From ch_752.txt (chunk 2) ---
+- 通天侯 = Marquis Tongtian
+- 肥球 = Fat Ball
+- 星宇印 = Starry Sky Seal
+- 无命 = Wuming
+- 天命侯 = Destiny Marquis
+--- From ch_752.txt (chunk 3) ---
+- Wuming
+- Tiangu
+--- From ch_752.txt (chunk 4) ---
+- Dao Heavenly Sovereign
+- pseudo-dao experts
+- Moon Luo
+- Ziyan
+- Doubao
+- Little Furball
+- Control King
+- Daofuse experts
+- Fat Ball
+- Marquis Tongtian
+- Hongmeng
+- Grand Dream City
+- Ancient Giant Race
+- Hundred Battle
+- Yunshui
+- Old Turtle
+
+=== ch_753.txt ===
+
+--- From ch_753.txt (chunk 1) ---
+- Old Turtle
+- Topsoil Spirit
+- Empyrean Cloud
+- Mountain Rise
+--- From ch_753.txt (chunk 2) ---
+- Kong Kong
+- Lie Kong
+- Marquis Lie Kong
+--- From ch_753.txt (chunk 3) ---
+- None
+
+=== ch_754.txt ===
+
+--- From ch_754.txt (chunk 1) ---
+- Great Han King
+- Great Tang King
+- Great Shang King
+- Heavenly Casting King
+- Space Beast Emperor
+- Marquis of Cracking Space
+- Marquis of Destiny
+- Hou Pseudo Emperor
+- Hou Realm
+- Marquis of Giant Bamboo
+- Dingjun Guard
+- Marquis of Dingjun
+- Starfall Mountain
+--- From ch_754.txt (chunk 2) ---
+- Qi Rong
+- Wuming
+- Blue Sky
+--- From ch_754.txt (chunk 3) ---
+- 蓝天 = Lantian
+- 百战 = Hundred Battle
+- 天灭 = Heavendoom
+- 定军侯 = Marquis Dingjun
+- 英武 = Yingwu
+- 火云侯 = Marquis Huoyun
+- 云水 = Yunshui
+- 暗影 = Shadow
+- 大周王 = Great Zhou King
+- 琪蓉 = Qirong
+- 琪王妃 = Consort of King Qi
+- 大秦王 = Great Qin King
+- 大夏王 = Great Xia King
+- 夏龙武 = Xia Longwu
+- 荒天兽 = Desolate Beast
+
+=== ch_755.txt ===
+
+--- From ch_755.txt (chunk 1) ---
+- Qi Rong
+- Consort Qi
+- Yue Gang
+- King Gong
+--- From ch_755.txt (chunk 2) ---
+- 通天侯 = Marquis Tongtian
+- 宇皇 = Emperor Yu
+- 文王 = Culture King
+- 武皇 = Martial Emperor
+- 狱王 = Control King
+- 天门 = Heaven Gate
+- 地狱之门 = Gate of Hell
+- 混沌时代 = Chaos Era
+- 开天时代 = Era of Opening the Heavens
+- 太古时代 = Primordial Era
+- 上古时代 = Ancient Era
+- 时光长河 = River of Time
+- 死灵大道 = Death Path
+- 人祖 = Human Ancestor
+--- From ch_755.txt (chunk 3) ---
+通天侯 = Marquis Tongtian
+天门 = Heaven Gate
+--- From ch_755.txt (chunk 4) ---
+- Hetu
+- Old Turtle
+- Lantian
+- Hundred Battle
+- Starry Sky Seal
+
+=== ch_756.txt ===
+
+--- From ch_756.txt (chunk 1) ---
+- Heaven-born Gate
+- Marquis Tongtian
+--- From ch_756.txt (chunk 2) ---
+- Doubao
+- Hongmeng
+- Heavendoom
+--- From ch_756.txt (chunk 3) ---
+- Doubao
+- Heavendoom
+- Grandstar
+- Old Turtle
+- Lantian
+
+=== ch_757.txt ===
+
+--- From ch_757.txt (chunk 1) ---
+- Lantian
+- Hongmeng
+- Hetu
+- Great Zhou King
+- Emperor Yu
+- Culture King
+- Martial King
+- Human Emperor
+- Control King
+- Hundred Battle
+- Ancient Giant Race
+- Ancient Giant King
+- Myriad Realms
+- Immortals
+- Demons
+- Gods
+- Holy Race
+- Torchbearer
+- Source of the Dao
+- River of Time
+--- From ch_757.txt (chunk 2) ---
+周天 = Zhou Tian
+周明仁 = Zhou Mingren
+--- From ch_757.txt (chunk 3) ---
+- Qin Guang
+
+=== ch_758.txt ===
+
+--- From ch_758.txt (chunk 1) ---
+- Giant Axe
+- Li Yun
+--- From ch_758.txt (chunk 2) ---
+- Lantian
+- Director Wan
+- Bai Feng
+- Control King
+- Hundred Battle King
+- Human Ancestor
+- Culture King
+--- From ch_758.txt (chunk 3) ---
+- Qi Rong
+- Hetu
+
+=== ch_759.txt ===
+
+--- From ch_759.txt (chunk 1) ---
+- Xia Huyou
+- Ji Hong
+- Hundred Battle King
+--- From ch_759.txt (chunk 2) ---
+- None
+--- From ch_759.txt (chunk 3) ---
+- King of Shang
+- Wu Ji
+- Xia Huyou
+- Qin Hao
+- Zhu Guangshen
+- Marquis Xia
+
+=== ch_760.txt ===
+
+--- From ch_760.txt (chunk 1) ---
+- Great Shang King
+- Great Han King
+--- From ch_760.txt (chunk 2) ---
+- None
+--- From ch_760.txt (chunk 3) ---
+- Tian Yue
+- Chongming
+- Consort Qi
+- General Hongmeng
+- South King
+- Marquis Lanshan
+- Symbol King
+--- From ch_760.txt (chunk 4) ---
+- Consort Qi
+- Abyssal Path
+- Spirit Suppression Domain
+- Dragonblood Marquis
+- Martial Emperor
+
+=== ch_761.txt ===
+
+--- From ch_761.txt (chunk 1) ---
+- Xingyue
+- Starry Sky Seal
+- Book of Time
+- Mark of Civilization
+- Human Emperor
+- Time Sage
+- Lantian
+--- From ch_761.txt (chunk 2) ---
+- Emperor Yu
+- Blue Sky
+--- From ch_761.txt (chunk 3) ---
+- Topsoil Spirit
+- Doubao
+- Earth Ancestor
+- Five Elemental Race
+- Marquis Huoyun
+- Huoyue
+- Chongming
+- Marquis Dingjun
+- General Yingwu
+- Marquis Zhennan
+- Yunshui
+- Shadow
+- Marquis Modang
+- Marquis Lanshan
+- Marquis Zhengyang
+- Marquis Tongtian
+- Marquis Minshan
+- Marquis of Fengqi
+- Marquis of Blood Severance
+- Marquis of Immortal War
+- Marquis of Shadows
+- Marquis of Anbei
+- Marquis of Leixiao
+- Marquis of Stabilization
+- Marquis of Steadfast Army
+- Marquis of Military Order
+- Marquis of Dingjun
+- Marquis of Minshan
+
+=== ch_762.txt ===
+
+--- From ch_762.txt (chunk 2) ---
+- Liu Wenyan
+- Huang Jiu
+- Kong Kong
+- Ye Batian
+- Great Han King
+- Great Tang King
+- Hongmeng
+- Heavendoom
+- Duobao
+- Fat Ball
+- Huoyun
+- Consort of Qi
+- Topsoil Spirit
+--- From ch_762.txt (chunk 3) ---
+- Topsoil Spirit
+- Five Elemental Race
+- Daofuse Realm
+- Eternal
+- Iron Devourer Race
+- Fate Clan
+- Space Ancient Beast Race
+- Hou Race
+- Upper Realm
+- Wan Tiansheng
+- Heaven Gate
+- Emperor Yu
+- Abyssal Realm
+- Heavendoom
+- Fat Ball
+- Doubao
+- River of Time
+- Starry Sky Seal
+- Lantian
+- Great Qin King
+- Marquis Lanshan
+--- From ch_762.txt (chunk 4) ---
+- Lantian
+
+=== ch_763.txt ===
+
+--- From ch_763.txt (chunk 2) ---
+- Martial Emperor
+- Taishan
+- Hundred Battles
+- Luminous Domain Mansion
+- Jiuyue
+--- From ch_763.txt (chunk 3) ---
+- Topsoil Spirit
+- Heavendoom
+- Starry Sky Seal
+--- From ch_763.txt (chunk 4) ---
+- None
+
+=== ch_764.txt ===
+
+--- From ch_764.txt (chunk 1) ---
+- Xiu Wu
+--- From ch_764.txt (chunk 2) ---
+犼皇 = Hou Pseudo Emperor
+武王 = Martial King
+犼族 = Hou Race
+九月 = September
+炊饼 = Flatbread
+宇皇 = Emperor Yu
+豆包 = Doubao
+老乌龟 = Old Turtle
+蓝天 = Lantian
+万天圣 = Wan Tiansheng
+火云侯 = Marquis Huoyun
+肥球 = Fat Ball
+命皇 = Fate Emperor
+琪王妃 = Consort Qi
+鸿蒙 = Hongmeng
+大周王 = Great Zhou King
+大秦王 = Great Qin King
+大夏王 = Great Xia King
+英武将军 = General Yingwu
+定军侯 = Marquis Dingjun
+大明王 = Great Ming King
+通天侯 = Marquis Tongtian
+六月 = June
+空间兽皇 = Space Beast Emperor
+星宏 = Grandstar
+天灭 = Heavendoom
+书灵 = Book Spirit
+茶树 = Tea Plant
+云霄 = Empyrean Cloud
+重明 = Chongming
+浮土灵 = Topsoil Spirit
+五行老祖 = Five Elemental Ancestor
+大汉王 = Great Han King
+大唐王 = Great Tang King
+大商王 = Great Shang King
+大宋王 = Great Song King
+火月 = Huoyue
+火爆 = Huobao
+英超 = Yingchao
+文起 = Wen Qi
+镇南 = Marquis Zhennan
+--- From ch_764.txt (chunk 3) ---
+- Lantian
+- Tongtian
+- Fat Ball
+- Big Wood
+- Culture King's Residence
+- Starry Sky Seal
+- Human Lord Seal
+--- From ch_764.txt (chunk 4) ---
+- Fat Ball
+- Tea Plant
+- Lantian
+- Starry Sky Seal
+- Mark of Civilization
+- Culture King's Residence
+- Marquis Tongtian
+- Hou Pseudo Emperor
+
+=== ch_765.txt ===
+
+--- From ch_765.txt (chunk 1) ---
+犼皇 = Hou Pseudo Emperor
+--- From ch_765.txt (chunk 2) ---
+- Hou Realm
+- Hou Race
+- Hou Pseudo Emperor
+- Ancient Giant King
+- South King
+- Marquis Zhennan
+--- From ch_765.txt (chunk 3) ---
+- Hou Pseudo Emperor
+- Chaos Race
+- Splitting Sky Marquis
+- Dragonblood Marquis
+--- From ch_765.txt (chunk 4) ---
+- None
+
+=== ch_766.txt ===
+
+--- From ch_766.txt (chunk 1) ---
+- Dizhi Luo
+--- From ch_766.txt (chunk 2) ---
+- Dizhi Luo
+- Death Emperor
+- Radiant King
+- Yu Ziqi
+--- From ch_766.txt (chunk 3) ---
+- Human King of the Four Extremes
+- Lord of the Dead Spirits
+- Desolate Beast
+- Human Emperor's Dao
+- Human Emperor
+
+=== ch_767.txt ===
+
+--- From ch_767.txt (chunk 1) ---
+- None
+--- From ch_767.txt (chunk 2) ---
+- Topsoil Spirit
+- Lantian
+--- From ch_767.txt (chunk 3) ---
+- Lantian
+- Yuehao
+- Yue Luo
+- Yue Ming
+- Yuexi
+- Yuehao
+- Yue Luo
+- Yue Ming
+- Yuexi
+- Yuehao
+- Yue Luo
+- Yue Ming
+- Yuexi
+
+=== ch_768.txt ===
+
+--- From ch_768.txt (chunk 1) ---
+- Lantian
+- Tea Plant
+- Fat Ball
+- Great Ming King
+- Starry Sky Seal
+- Yu Dao
+- Zhou Dao
+- Yue Hao
+- Sun Devouring Divine Dog
+--- From ch_768.txt (chunk 2) ---
+- Yue Hao
+- Lantian
+- Extermination King
+--- From ch_768.txt (chunk 3) ---
+- 混沌古兽 = Chaos Ancient Beasts
+- 覆天鹰 = Overturning Sky Eagle
+
+=== ch_769.txt ===
+
+--- From ch_769.txt (chunk 1) ---
+- Lantian
+- Hetu
+- Doubao
+--- From ch_769.txt (chunk 2) ---
+- Lanshan
+- Xia Chen
+- Hetu
+- Ink Dao
+--- From ch_769.txt (chunk 3) ---
+- None
+
+=== ch_770.txt ===
+
+--- From ch_770.txt (chunk 1) ---
+- 混沌 (Chaos)
+- 琪王妃 (Consort Qi)
+--- From ch_770.txt (chunk 2) ---
+- 巨龙兽 = giant dragon beast
+- 蓝天 = Lantian
+--- From ch_770.txt (chunk 3) ---
+- 月琴 (Moon Harp)
+- 混沌炎火 (chaotic flames)
+--- From ch_770.txt (chunk 4) ---
+- Chaos Dragon
+
+=== ch_771.txt ===
+
+--- From ch_771.txt (chunk 1) ---
+- Zhou Wu
+- Heaven Gate
+- Culture King
+- Time Sage
+- Control King
+- Human Emperor
+- Land of Chaos
+--- From ch_771.txt (chunk 2) ---
+- Martial King
+- Zhou Wu
+- Xingyue
+--- From ch_771.txt (chunk 3) ---
+- Dizhi Luo
+- Yu Ziqi
+--- From ch_771.txt (chunk 4) ---
+- Dizhi Luo
+- Death Emperor
+- Xingyue
