@@ -7,7 +7,7 @@ from pathlib import Path
 # ==========================
 # CONFIG
 # ==========================
-MODEL_NAME = "gemini-1.5-flash"  # or "gemini-1.5-pro" for better quality
+MODEL_NAME = "gemini-2.0-flash-exp"  # Gemini 2.0 Flash experimental model
 CN_DIR = Path("cn_chapters")
 EN_DIR = Path("en_chapters")
 EARLY_GLOSSARY = Path("early gloss.txt").read_text(encoding="utf-8")
