@@ -14,6 +14,22 @@
 天岳 = Tian Yue
 六月 = June
 小白狗 = White Dog
+星月 = Xingyue
+星宇 = Xingyu
+苍山冥 = Cangshan Ming
+河图 = Hetu
+鸿蒙 = Hongmeng
+老龟 = Old Turtle
+寂无 = Jiwu
+蓝天 = Lantian
+万天圣 = Wan Tiansheng
+肥球 = Fat Ball
+豆包 = Doubao
+炊饼 = Flatbread
+山启 = Shan Qi
+刘洪 = Liu Hong
+周破龙 = Zhou Polong
+周天齐 = Zhou Tianqi
 
 ## High-Tier Spirits & Entities
 浮土灵 = Topsoil Spirit
@@ -39,6 +55,16 @@
 北王 = North Heavenly King
 禁天王 = Silk Destroying King
 西王妃 = West King's Consort
+东王 = East King
+西王 = West King
+北王 = North King
+凤皇 = Phoenix Emperor
+猿皇 = Ape Emperor
+魔皇 = Demon Emperor
+冥皇 = Nether Emperor
+命皇 = Fate Emperor
+符王 = Symbol King
+焚海王 = Sea Burning King
 
 ## Ancestors & Emperors
 火行老祖 = Fire Ancestor
@@ -47,7 +73,7 @@
 水灵老祖 = Water Ancestor
 木灵老祖 = Wood Ancestor
 犼皇 = Hou Pseudo Emperor
-
+岚山侯 = Marquis Lanshan
 ## Locations & Higher Realms
 五行界 = Five Elemental Realm
 死灵界域 = Death Realm
@@ -61,22 +87,67 @@
 上界 = Upper Realm
 诸天万界 = Myriad Realms
 诸天战场 = Allheaven Battlefield
-
+人境 = Human Realm
+东王域 = East King Domain
+西王域 = West King Domain
+南王域 = South King Domain
+北王域 = North King Domain
+四王域 = Four Kings' Domains
+镇灵域 = Spirit Suppression Domain
+归墟之地 = Land of the Abyss
+天渊界 = Abyssal Realm
+凤界 = Phoenix Realm
+猿界 = Ape Realm
+龙界 = Dragon Realm
+冥界 = Nether Realm
+大雍府 = Dayong Prefecture
+清污署 = Purification Bureau
+修心阁 = Heart Cultivation Pavilion
 ## Factions & Races (Late)
 五行族 = Five Elemental Race
 噬铁族 = Iron Devourer Race
 五行宫 = Five Elemental Palace
+万族 = Myriad Races
+犼族 = Hou Race
+食铁族 = Iron Devourer Race
+空间古兽族 = Space Ancient Beast Race
+天渊族 = Abyssal Race
+凤凰 = Phoenix
+太古巨人族 = Ancient Giant Race
+命族 = Fate Clan
+混沌族 = Chaos Race
+死灵界域 = Death Realm
+死灵天河 = Celestial River of Death
+时光长河 = River of Time
+星宇府邸 = Luminous Domain Mansion
+文王故居 = Culture King's Residence
+鸿蒙古城 = Grand Dream City
+星辰海 = Sea of Stars
+白玉门 = White Jade Gate
+上界 = Upper Realm
+诸天万界 = Myriad Realms
+诸天战场 = Allheaven Battlefield
 
-## Cultivation Levels & Concepts (Late)
-日月 = Sunmoon Realm
-永恒 = Eternal
-合道 = Daofuse
-
+## Factions & Races (Late)
 ## Titles & Roles
 人主 = Human Lord
 时光师 = Time Sage
 传火者 = Torchbearer
+镇灵将军 = Spirit Suppression Generals
 
+## Laws, Concepts & Powers
+规则之力 = power of laws
+神文 = character
+神窍 = aperture
+天门 = Heaven Gate
+笔道 = pen dao
+文明志 = Mark of Civilization
+文墓碑 = Culture Tomb
+时光册 = Book of Time
+人主印 = Human Lord Seal
+东王印 = East King Seal
+星宇印记 = Xingyu Imprint
+墨道 = ink dao
 ## Laws, Concepts & Powers
 规则之力 = power of laws
 神文 = character
