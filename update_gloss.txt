@@ -63,3 +63,127 @@
 - Kunpeng
 - Zhou Ji
 - Control Qing
+
+=== ch_805.txt ===
+
+--- From ch_805.txt (chunk 1) ---
+- 武皇 = Martial Emperor
+- 开天者 = Sky Opener
+- 圣化印 = Saint Transformation Seal
+- 太山 = Taishan
+- 四极人王 = Four Extremes Human King
+- 周天之法 = Zhou Tian Method
+--- From ch_805.txt (chunk 2) ---
+- Marquis Longxue
+- Yue Luo
+- Taishan
+--- From ch_805.txt (chunk 3) ---
+- 婆龙兽 = Dragon Beast
+- 狱青 = Yu Qing
+- 月战 = Yue Zhan
+- 月罗 = Yue Luo
+- 月啸 = Yue Xiao
+- 混沌龙 = Chaos Dragon
+- 八翼虎 = Eight-Winged Tiger
+- 摩天尊 = Mo Tianzun
+- 裂空侯 = Lie Kong Marquis
+- 犼族 = Hou Race
+- 天命 = Tianming
+- 雷暴 = Leibo
+--- From ch_805.txt (chunk 4) ---
+- 犼皇 = Hou Pseudo Emperor
+- 犼族 = Hou Race
+- 天命 = Fate
+- 天古 = Tiangu
+- 豆包 = Doubao
+- 雷暴 = Thunderstorm
+- 天命侯 = Marquis Fate
+
+=== ch_806.txt ===
+
+--- From ch_806.txt (chunk 1) ---
+月罗 = Yue Luo
+月啸 = Yue Xiao
+百战 = Hundred Battle
+长青 = Changqing
+武极 = Wu Ji
+狱王 = Control King
+稷儿 = Ji'er
+月战 = Yue Zhan
+魔天 = Demon Heaven
+紫云侯 = Marquis Ziyun
+摩天尊 = Demon Sovereign Mo
+雪兰 = Xuelan
+巨竹 = Giant Bamboo
+通天 = Tongtian
+月天尊 = Moon Heavenly Sovereign
+龙天尊 = Dragon Heavenly Sovereign
+荒天尊 = Desolate Heavenly Sovereign
+元圣 = Yuan Saint
+神皇妃 = Divine Empress
+狱青 = Yu Qing
+婆龙兽 = Brood Dragon Beast
+天古 = Tiangu
+月昊 = Yue Hao
+长眉 = Longbrow
+血影 = Blood Shadow
+江海侯 = Marquis Jiang Hai
+三月 = March
+巨斧 = Giant Axe
+肥球 = Fat Ball
+天命 = Fate
+雷暴 = Thunderstorm
+巨人王 = Giant King
+周稷 = Zhou Ji
+人祖 = Human Ancestor
+人皇 = Human Emperor
+文王 = Culture King
+--- From ch_806.txt (chunk 2) ---
+狱青 = Yu Qing
+婆龙 = Po Long
+--- From ch_806.txt (chunk 3) ---
+狱青 = Yu Qing
+镇南侯 = Marquis Zhen Nan
+长眉 = Chang Mei
+夏虎尤 = Xia Hu You
+文起 = Wen Qi
+摩天尊 = Mo Tianzun
+摩多那 = Mo Duona
+婆龙兽 = Po Long Beast
+周稷 = Zhou Ji
+--- From ch_806.txt (chunk 4) ---
+- Yu Qing
+- Martial Emperor
+- Sin Clan
+- Lords of Rules
+- Gate of Hell
+- Chaos Ancient Beasts
+- Control King
+- Hundred Battle
+- Human Ancestor
+
+=== ch_807.txt ===
+
+--- From ch_807.txt (chunk 2) ---
+- 通天 (Tongtian)
+- 镇南侯 (Marquis Lanshan)
+- 月罗 (Moon Luo)
+- 月啸 (Moon Xiao)
+- 百战 (Hundred Battle King)
+- 罪族 (Sin Clan)
+- 混沌龙 (Chaos Dragon)
+--- From ch_807.txt (chunk 3) ---
+- Control King
+- Celestial Sovereigns
+- Dragon Beast
+- Thunderstorm
+- Blood Shadow
+- Red Moon
+- Evergreen
+- Wuji
+- Longbrow
+- Jiang Hai
+- Mist Mountain
+- Marquis of South Creek
+--- From ch_807.txt (chunk 4) ---
+镇南侯 = South Suppressing Marquis

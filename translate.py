@@ -13,7 +13,7 @@ EN_DIR = Path("en_chapters")
 EARLY_GLOSSARY = Path("early gloss.txt").read_text(encoding="utf-8")
 LATE_GLOSSARY = Path("Late gloss.txt").read_text(encoding="utf-8")
 STYLE_REFERENCE = Path("Style_reference.txt").read_text(encoding="utf-8")
-UPDATE_GLOSS_FILE = Path("update_gloss.txt")
+UPDATE_GLOSS_FILE = Path("update_gloss_new.txt")
 
 # Load update glossary if it exists
 try:
@@ -89,7 +89,7 @@ STRICT RULES:
 5. Do NOT summarize or modernize.
 6. If a proper noun, cultivation term, race, realm, title, or place is NOT in any glossary:
    - Transliterate conservatively
-   - List it at the end under [UNMAPPED_TERMS]
+   - List it at the end under [UNMAPPED_TERMS] in the format: 中文 = English Translation
 
 STYLE REFERENCE (FORMAT & TONE ONLY):
 {STYLE_REFERENCE}
@@ -214,10 +214,49 @@ def translate_chapter_hybrid(cn_text, chapter_name):
     # Save unmapped terms to file if any were found
     if unmapped_terms_list:
         try:
-            with open(UPDATE_GLOSS_FILE, "a", encoding="utf-8") as f:
-                f.write(f"\n\n=== {chapter_name} ===\n")
-                f.write("".join(unmapped_terms_list))
-            print(f"  📝 Saved unmapped terms to {UPDATE_GLOSS_FILE}")
+            # Load existing terms to avoid duplicates
+            existing_terms = set()
+            if UPDATE_GLOSS_FILE.exists():
+                existing_content = UPDATE_GLOSS_FILE.read_text(encoding="utf-8")
+                # Extract terms in format "中文 = English" or just "English"
+                for line in existing_content.split('\n'):
+                    line = line.strip()
+                    if '=' in line:
+                        # Extract the Chinese part before =
+                        chinese_term = line.split('=')[0].strip()
+                        existing_terms.add(chinese_term)
+                    elif line and not line.startswith('-') and not line.startswith('='):
+                        # Just English term without Chinese
+                        existing_terms.add(line)
+            
+            # Filter out duplicates
+            new_terms = []
+            for term_section in unmapped_terms_list:
+                filtered_lines = []
+                for line in term_section.split('\n'):
+                    line = line.strip()
+                    if '=' in line:
+                        chinese_term = line.split('=')[0].strip()
+                        if chinese_term not in existing_terms:
+                            filtered_lines.append(line)
+                            existing_terms.add(chinese_term)
+                    elif line and not line.startswith('-') and not line.startswith('='):
+                        if line not in existing_terms:
+                            filtered_lines.append(line)
+                            existing_terms.add(line)
+                    else:
+                        filtered_lines.append(line)  # Keep headers/separators
+                
+                if any(l.strip() and not l.startswith('-') and not l.startswith('=') for l in filtered_lines):
+                    new_terms.append('\n'.join(filtered_lines))
+            
+            if new_terms:
+                with open(UPDATE_GLOSS_FILE, "a", encoding="utf-8") as f:
+                    f.write(f"\n\n=== {chapter_name} ===\n")
+                    f.write("".join(new_terms))
+                print(f"  📝 Saved {len(new_terms)} new unmapped terms to {UPDATE_GLOSS_FILE}")
+            else:
+                print(f"  ℹ️ No new unmapped terms (all were duplicates)")
         except Exception as e:
             print(f"  ⚠️ Could not save unmapped terms: {e}")
     

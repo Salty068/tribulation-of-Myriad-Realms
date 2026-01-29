@@ -1,0 +1,1161 @@
+# =========================
+# UPDATED MASTER GLOSSARY (AUTO-COMPILED)
+# Priority used: Late > Backup5 > Backup4 > Backup3 > Backup2 > Backup1 > Early
+# =========================
+
+## Core Characters
+苏宇 = Su Yu
+夏辰 = Xia Chen
+天古 = Tiangu
+天灭 = Heavendoom
+云霄 = Empyrean Cloud
+星宏 = Grandstar
+天岳 = Tian Yue
+六月 = June
+小白狗 = White Dog
+苏龙 = Su Long
+陈浩 = Chen Hao
+刘玥 = Liu Yue
+刘文彦 = Liu Wenyan
+夏龙武 = Xia Longwu
+周破天 = Zhou Potian
+
+## Kings
+东天王 = East Heavenly King
+东王 = East King
+北天王 = North Heavenly King
+北王 = North Heavenly King  # aka: North King
+南天王 = South Heavenly King
+南王 = South Heavenly King  # aka: South King
+圣天王 = Saint Heavenly King
+圣王 = Saint King
+大周王 = Great Zhou King
+大唐王 = Great Tang King
+大商王 = Great Shang King
+大夏王 = Great Xia King
+大宋王 = Great Song King
+大明王 = Great Ming King
+大汉王 = Great Han King
+大秦王 = Great Qin King
+大越王 = Great Yue King
+大楚王 = Great Chu King
+大隋王 = Great Sui King
+大雍王 = Great Yong King
+大魏王 = Great Wei King
+大齐王 = Great Qi King
+大晋王 = Great Jin King
+天王 = Heavenly King
+天虎王 = Sky Tiger King
+幻王 = Illusion King
+影王 = Shadow King
+文王 = Culture King
+明王 = Radiant King
+武王 = Martial King
+狱王 = Control King
+百战王 = Hundred Battle King
+符王 = Talisman King
+统王 = Command King
+禁天王 = Silk Destroying King
+神王 = Divine King
+血王 = Blood King
+镇南王 = Suppressing South King
+镇北王 = Suppressing North King
+镇东王 = Suppressing East King
+镇西王 = Suppressing West King
+镇魔王 = Devil Subduing King
+镇海王 = Sea Suppressing King
+镇天王 = Heaven Suppressing King
+镇山王 = Mountain Suppressing King
+镇风王 = Wind Suppressing King
+镇雷王 = Thunder Suppressing King
+镇火王 = Fire Suppressing King
+镇水王 = Water Suppressing King
+镇土王 = Earth Suppressing King
+镇金王 = Metal Suppressing King
+镇木王 = Wood Suppressing King
+镇魂王 = Soul Suppressing King
+镇狱王 = Prison Suppressing King
+镇界王 = Realm Suppressing King
+镇域王 = Domain Suppressing King
+镇河王 = River Suppressing King
+镇海王 = Sea Suppressing King  # aka: Sea King
+
+## Emperors
+人皇 = Human Emperor
+武皇 = Martial Emperor
+宇皇 = Emperor Yu
+死灵帝尊 = Undead Emperor  # aka: Undead Emperor
+死皇 = Death Emperor
+神皇 = Divine Emperor
+犼皇 = Hou Pseudo Emperor
+
+## Heavenly Venerables
+凤天尊 = Phoenix Heavenly Venerable
+冥天尊 = Nether Heavenly Venerable
+天尊 = Heavenly Venerable
+日冕天尊 = Sun Corona Heavenly Venerable  # aka: Sun Corona
+日冕 = Sun Corona  # aka: Sun Corona Heavenly Venerable
+月天尊 = Moon Heavenly Venerable
+魔天尊 = Mo Heavenly Venerable
+龙天尊 = Dragon Heavenly Venerable
+凤尊 = Feng Zun
+道天尊 = Dao Heavenly Venerable
+
+## Marquises
+上古侯 = ancient marquises
+仙战侯 = Immortal Battle Marquis
+天命侯 = Destiny Marquis  # aka: Marquis Destiny
+巨竹侯 = Marquis Giant Bamboo  # aka: Marquis of Giant Bamboo
+岚山侯 = Marquis Lanshan
+正阳侯 = Marquis Zhengyang
+通天侯 = Marquis Tongtian  # aka: Marquis Tongtian
+紫云侯 = Marquis Ziyun  # aka: Ziyun Marquis
+血断侯 = Blood Severance Marquis
+圣侯 = Saint Marquis  # aka: Holy Marquis
+源圣侯 = Origin Saint Marquis
+天龙侯 = Heavenly Dragon Marquis
+镇南侯 = Marquis Zhennan
+定军侯 = Marquis Dingjun
+军令侯 = Marquis of Military Order
+民山侯 = Minshan Marquis
+
+## Factions & Races
+五行族 = Five Elemental Race
+噬铁族 = Iron Devourer Race
+五行宫 = Five Elemental Palace
+万族教 = Myriad Race Cult
+镇魔军 = Devil Subduing Army
+龙武卫 = Martial Dragon Guards
+五行界 = Five Elemental Realm
+混沌古族 = Chaos Ancient Clan
+罪族 = Sin Race  # aka: Sin Clan
+罪族 = Sin Clan  # aka: Sin Race
+
+## Realms & Domains
+上界 = Upper Realm
+人境 = Human Realm
+妖界 = Demon Realm
+魔界 = Devil Realm
+神界 = Divine Realm
+死灵界域 = Death Realm
+死灵天河 = Celestial River of Death
+星辰海 = Sea of Stars
+诸天万界 = Myriad Realms
+诸天战场 = Allheaven Battlefield
+天王领域 = Heavenly King domain
+柢山界 = Mount Root Realm
+
+## Gates & Passages
+天门 = Heaven Gate
+地狱之门 = Gate of Hell
+白玉门 = White Jade Gate
+
+## Locations
+大夏府 = Great Xia Prefecture
+大周府 = Great Zhou Prefecture
+大明府 = Great Ming Prefecture
+南元城 = Nanyuan City
+文王故居 = Culture King's Residence
+星宇府邸 = Luminous Domain Mansion
+鸿蒙古城 = Grand Dream City
+文墓碑 = Culture Tomb
+
+## Cultivation Realms
+开元 = Source Opening Realm
+千钧 = Great Strength Realm
+万石 = Infinite Strength Realm
+腾空 = Skysoar Realm
+日月 = Sunmoon Realm
+永恒 = Eternal
+合道 = Daofuse
+Heavenly King
+Heavenly Sovereign
+Master Of Law
+
+## Daos & Paths
+真道 = true Dao
+伪道 = pseudo-dao
+死灵大道 = Death Path
+笔道 = pen dao
+墨道 = Ink Dao  # aka: Ink Path
+
+## Techniques & Artifacts
+《开元诀》 = Source Opening Codex
+纳元诀 = Source Swallowing Technique
+五行神诀 = Five Elemental Art
+融兵法 = Weapon Fusion Method
+三身法 = Three Body Method
+神文 = character
+神窍 = aperture
+文明志 = Mark of Civilization
+时光长河 = River of Time
+时光册 = Book of Time
+万族图册 = Myriad Race Compendium
+
+## Resources & Stats
+元气 = source qi
+元气液 = source qi liquid
+精血 = blood essence
+功勋点 = merit points
+意志 = willpower
+意志具现 = willpower materialization
+窍穴 = acupoints
+天元果 = Heavenly Source Fruit
+天赋技 = racial ability
+
+## Other
+阴阳 = yin and yang
+生 = life
+死 = death
+宇 = domain
+宙 = eternity
+宇宙 = cosmos
+地 = earth
+气 = air
+天 = heaven
+规则之力 = power of laws
+规则之主 = ruler of laws
+快 = fast
+慢 = slow
+人主 = Human Lord
+时光师 = Time Sage
+传火者 = Torchbearer
+书灵 = Book Spirit
+茶树 = Tea Plant
+浮土灵 = Topsoil Spirit
+西王妃 = West King's Consort
+安平历 = Anping Calendar
+学府秘境 = secret grottos
+撕裂 = Rip
+铁翅斩击 = Ironwing Slash
+
+
+=== ch_808.txt ===
+
+--- From ch_808.txt (chunk 1) ---
+武皇 = Martial Emperor
+百战 = Hundred Battle King
+长青 = Changqing
+武极 = Wu Ji
+道源之地 = Dao Source Land
+神皇妃 = Divine Empress
+狱青 = Yu Qing
+婆龙兽 = Poba Beast
+月战 = Yue Zhan
+混沌山 = Chaos Mountain
+命族 = Fate Clan
+巨人族 = Ancient Giant Race
+太古巨人王 = Ancient Giant King
+--- From ch_808.txt (chunk 2) ---
+婆龙兽 = Pulao Beast
+--- From ch_808.txt (chunk 3) ---
+神皇妃 = Divine Empress
+日冕天尊 = Sun Corona Heavenly Venerable
+寂无 = Jiwu
+武皇 = Martial Emperor
+死灵帝尊 = Undead Emperor
+太山 = Taishan
+星辰海 = Sea of Stars
+--- From ch_808.txt (chunk 4) ---
+武皇 = Martial Emperor
+
+=== ch_809.txt ===
+
+--- From ch_809.txt (chunk 2) ---
+百战 = Hundred Battle
+武皇 = Martial Emperor
+狱王 = Control King
+月罗 = Moon Luo
+月啸 = Moon Xiao
+月战 = Moon Battle
+狱青 = Control Qing
+--- From ch_809.txt (chunk 3) ---
+月罗 = Yue Luo
+月啸 = Yue Xiao
+罪族 = Sin Clan
+狱王 = Control King
+狱青 = Control Qing
+摩天 = Mo Tian
+周稷 = Zhou Ji
+稷儿 = Ji'er
+--- From ch_809.txt (chunk 4) ---
+武极 = Wu Ji
+
+=== ch_810.txt ===
+
+--- From ch_810.txt (chunk 1) ---
+黑心苏宇 = The Scheming Su Yu
+武皇 = Martial Emperor
+死灵帝尊 = Undead Emperor
+神皇妃 = Divine Empress
+百战 = Hundred Battle King
+狱王 = Control King
+罪族 = Sin Clan
+人祖 = Human Ancestor
+人皇 = Human Emperor
+岳父 = father-in-law
+长眉 = Long Eyebrow
+巨人族 = Giant Race
+周稷 = Zhou Ji
+月罗 = Yue Luo
+兵窟 = Bingku
+--- From ch_810.txt (chunk 2) ---
+死灵帝尊 = Undead Emperor
+死灵之主 = Master of the Undead
+时光之主 = Master of Time
+通天侯 = Marquis Tongtian
+--- From ch_810.txt (chunk 3) ---
+死灵帝尊 = Undead Emperor
+通天侯 = Marquis Tongtian
+--- From ch_810.txt (chunk 4) ---
+狗咬狗 = dog-eat-dog
+百战 = Hundred Battle
+
+=== ch_811.txt ===
+
+--- From ch_811.txt (chunk 1) ---
+神皇妃 = Divine Empress
+天古 = Tiangu
+--- From ch_811.txt (chunk 2) ---
+鸿蒙 = Hongmeng
+狱青 = Yu Qing
+婆龙兽 = Boro Dragon Beast
+月罗 = Moon Luo
+武极 = Wu Ji
+雪兰 = Xuelan
+三月 = March
+--- From ch_811.txt (chunk 3) ---
+搂草打兔子 = catching rabbits while gathering grass
+人山 = Ren Mountain
+婆龙兽 = Poba Dragon Beast
+--- From ch_811.txt (chunk 4) ---
+狱王 = Control King
+百战 = Hundred Battle King
+天古 = Tiangu
+神皇妃 = Divine Emperor's Consort
+荒天尊 = Desolate Heavenly Venerable
+命族 = Fate Clan
+仙族 = Immortal Clan
+仙皇 = Immortal Emperor
+
+=== ch_812.txt ===
+
+--- From ch_812.txt (chunk 1) ---
+剑拔弩张 = Tensions ran high
+人山 = Ren Mountain
+合道 = Daofuse
+天尊 = Heavenly Venerable
+规则之主 = ruler of laws
+狱王 = Control King
+蓝天 = Lantian
+道天尊 = Dao Heavenly Venerable
+天古 = Tiangu
+神皇妃 = Divine Consort
+月天尊 = Moon Heavenly Venerable
+武皇 = Martial Emperor
+月战 = Moon Battle
+荒天尊 = Desolate Heavenly Venerable
+仙族 = Immortal Race
+圣侯 = Saint Marquis
+元圣 = Origin Saint
+天命 = Destiny
+通天 = Tongtian
+门户 = Gate
+大周王 = Great Zhou King
+人皇 = Human Emperor
+兵窟 = Bingku
+丹玉 = Danyu
+岷山 = Minshan
+镇北 = Suppressing North
+定南 = Dingnan
+人侯 = Human Marquis
+时光之主 = Master of Time
+万族山 = Myriad Race Mountain
+--- From ch_812.txt (chunk 2) ---
+天古 = Tiangu
+仙皇 = Immortal Emperor
+神皇妃 = Divine Empress
+狱青 = Prison Green
+仙战侯 = Immortal Battle Marquis
+--- From ch_812.txt (chunk 3) ---
+仙战 = Immortal Battle
+武极 = Wujie
+血影 = Blood Shadow
+月战 = Moon Battle
+月罗 = Moon Luo
+月啸 = Moon Howl
+狱青 = Control Green
+婆龙 = Granny Dragon
+周稷 = Zhou Ji
+武皇 = Martial Emperor
+--- From ch_812.txt (chunk 4) ---
+天灭 = Heavendoom
+仙战侯 = Immortal Battle Marquis
+人山 = Human Mountain
+天古 = Tiangu
+
+=== ch_813.txt ===
+
+--- From ch_813.txt (chunk 1) ---
+琪王妃 = West King's Consort
+天火 = Tianhuo
+狱青 = Yu Qing
+婆龙 = Po Long
+--- From ch_813.txt (chunk 2) ---
+监天侯 = Marquis of Monitoring Heaven
+--- From ch_813.txt (chunk 3) ---
+时光师 = Time Sage
+时光册 = Book of Time
+文王 = Culture King
+文钰 = Wenyu
+星月 = Xingyue
+明王 = Radiant King
+周稷 = Zhou Ji
+--- From ch_813.txt (chunk 4) ---
+无数 = countless
+
+=== ch_814.txt ===
+
+--- From ch_814.txt (chunk 1) ---
+监天侯 = Heaven Monitoring Marquis
+百战 = Hundred Battle
+周稷 = Zhou Ji
+八翼虎 = Eight-Winged Tiger
+混沌龙 = Chaos Dragon
+--- From ch_814.txt (chunk 2) ---
+毛球 = Maoqiu
+肥球 = Fat Ball
+狱青 = Yu Qing
+--- From ch_814.txt (chunk 3) ---
+阴阳壁垒 = yin-yang barrier
+断尾龙 = Broken-Tailed Dragon
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+--- From ch_814.txt (chunk 4) ---
+八翼虎 = Eight-Winged Tiger
+混沌龙 = Chaos Dragon
+
+=== ch_815.txt ===
+
+--- From ch_815.txt (chunk 1) ---
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+狱青 = Yu Qing
+神皇妃 = Divine Consort
+武皇 = Martial Emperor
+人山 = Human Mountain
+--- From ch_815.txt (chunk 2) ---
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+神皇妃 = Divine Empress
+日冕 = Sun Corona
+圣侯 = Saint Marquis
+月天尊 = Moon Heavenly Venerable
+荒天尊 = Desolate Heavenly Venerable
+道天尊 = Dao Heavenly Venerable
+巨斧 = Giant Axe
+天命 = Destiny
+通天 = Tongtian
+雷暴 = Thunderstorm
+武极 = Wu Ji
+血影 = Blood Shadow
+南溪侯 = Marquis Nanshan
+岚山侯 = Marquis Lanshan
+天火 = Heavenly Fire
+琪蓉 = Qi Rong
+琪王妃 = Consort of King Qi
+岳刚 = Yue Gang
+长眉 = Long Brow
+--- From ch_815.txt (chunk 3) ---
+琪王妃 = Consort Qi
+琪蓉 = Qi Rong
+合道 = Daofuse
+伪道 = pseudo-dao
+宇皇府 = Emperor Yu's Mansion
+月食 = Eclipse Moon
+六翼 = Six-winged
+命族 = Fate Clan
+天尊 = Heavenly Venerable
+月天尊 = Moon Heavenly Venerable
+人山 = Mount Ren
+荒天尊 = Arrogant Heavenly Venerable
+武极 = Wu Ji
+红月 = Red Moon
+玉紫绮 = Yu Ziqi
+南王 = South King
+南天王 = South Heavenly King
+神皇妃 = Divine Empress
+河图 = Hetu
+岚山侯 = Marquis Lanshan
+天火 = Senior Tianhuo
+--- From ch_815.txt (chunk 4) ---
+武极 = Wu Ji
+红月 = Red Moon
+长眉 = Chang Mei
+狱青 = Yuqing
+婆龙兽 = Poro Dragon Beast
+
+=== ch_816.txt ===
+
+--- From ch_816.txt (chunk 1) ---
+裂空 = Lie Kong
+天策 = Tian Ce
+狱青 = Control Qing
+武极 = Wu Ji
+周稷 = Zhou Ji
+--- From ch_816.txt (chunk 2) ---
+罪族 = Sin Clan
+百战 = Hundred Battle King
+红月 = Red Moon
+雷暴 = Thunderstorm
+武极 = Wu Ji
+长青 = Changqing
+长眉 = Changmei
+葬魂山 = Soul Burying Mountain
+道源之地 = Dao Source Land
+婆龙兽 = Bro Dragon Beast
+狱青 = Prison Green
+--- From ch_816.txt (chunk 3) ---
+武皇 = Martial Emperor
+武极 = Wu Ji
+周稷 = Zhou Ji
+长青 = Changqing
+狱 = Control King
+--- From ch_816.txt (chunk 4) ---
+月罗 = Yue Luo
+月啸 = Yue Xiao
+狱青 = Yu Qing
+婆龙 = Po Long
+长眉 = Chang Mei
+长青 = Chang Qing
+
+=== ch_817.txt ===
+
+--- From ch_817.txt (chunk 1) ---
+周稷 = Zhou Ji
+百战 = Hundred Battle King
+雷暴 = Thunderstorm
+--- From ch_817.txt (chunk 2) ---
+百战 = Hundred Battle
+周稷 = Zhou Ji
+武皇 = Martial Emperor
+人祖 = Human Ancestor
+--- From ch_817.txt (chunk 3) ---
+百战 = Bai Zhan
+长眉 = Chang Mei
+人门 = Heaven Gate
+天门 = Heaven Gate
+长青 = Chang Qing
+--- From ch_817.txt (chunk 4) ---
+百战 = Hundred Battle
+
+=== ch_818.txt ===
+
+--- From ch_818.txt (chunk 1) ---
+道源之地 = Dao Source Land
+狱青 = Yu Qing
+婆龙 = Po Long
+武极 = Wu Ji
+月罗 = Yue Luo
+月啸 = Yue Xiao
+红月 = Hong Yue
+血影 = Blood Shadow
+雷暴 = Thunderstorm
+--- From ch_818.txt (chunk 2) ---
+荒天尊 = Arrogant Heavenly Venerable
+神皇妃 = Divine Empress
+月天尊 = Moon Heavenly Venerable
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+天火 = Heavenly Fire
+狱青 = Yu Qing
+婆龙兽 = Granny Dragon Beast
+月罗 = Yue Luo
+武极 = Wu Ji
+红月 = Red Moon
+月啸 = Moon Howl
+血影 = Blood Shadow
+雷暴 = Thunderstorm
+月战 = Moon Battle
+摩天尊 = Mo Heavenly Venerable
+镇南侯 = Marquis Zhennan
+--- From ch_818.txt (chunk 3) ---
+镇南侯 = Marquis Zhennan
+南溪侯 = Marquis Nanxi
+婆龙 = Brolong
+武极 = Wu Ji
+红月 = Hong Yue
+长青 = Changqing
+长眉 = Changmei
+稷儿 = Ji'er
+葬魂山 = Soul Burying Mountain
+人门 = Human Gate
+婆龙 = Brolong
+月罗 = Yue Luo
+合道 = Daofuse
+--- From ch_818.txt (chunk 4) ---
+南王 = South Heavenly King
+琪王妃 = West King's Consort
+人山 = Ren Mountain
+神皇妃 = Divine Empress
+
+=== ch_819.txt ===
+
+--- From ch_819.txt (chunk 1) ---
+婆龙 = Dragon Consort
+月战 = Yue Zhan
+狱青 = Yu Qing
+周稷 = Zhou Ji
+--- From ch_819.txt (chunk 2) ---
+狱青 = Prison Green
+婆龙 = Po Long
+武极 = Wu Ji
+荒天尊 = Desolate Heavenly Venerable
+人山 = Human Mountain
+月食天尊 = Moon Eclipse Heavenly Venerable
+八翼虎 = Eight-Winged Tiger
+混沌山 = Chaos Mountain
+监天侯 = Monitor Heaven Marquis
+--- From ch_819.txt (chunk 4) ---
+月啸 = Yue Xiao
+武极 = Wu Ji
+周稷 = Zhou Ji
+婆龙 = Po Long
+长青 = Changqing
+长眉 = Changmei
+雷暴 = Leiba
+
+=== ch_820.txt ===
+
+--- From ch_820.txt (chunk 1) ---
+长青 = Changqing
+长眉 = Changmei
+百战 = Hundred Battle
+狱青 = Yuwang
+月战 = Yue Zhan
+摩天尊 = Mo Heavenly Venerable
+通天侯 = Marquis Tongtian
+周稷 = Zhou Ji
+月罗 = Yue Luo
+玉紫绮 = Yu Ziqi
+雷暴 = Thunderstorm
+红月 = Red Moon
+虞 = Yu
+兵窟 = Bingku
+--- From ch_820.txt (chunk 2) ---
+虞 = Yu
+雷暴 = Thunderstorm
+月罗 = Yue Luo
+狱青 = Yu Qing
+月战 = Yue Zhan
+摩天尊 = Mo Heavenly Venerable
+--- From ch_820.txt (chunk 3) ---
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+武极 = Wu Ji
+红月 = Red Moon
+血影 = Blood Shadow
+虞 = Yu
+江海侯 = Jiang Hai Marquis
+雾山 = Wu Shan
+暗影侯 = Shadow Marquis
+英武 = Ying Wu
+定军侯 = Marquis Dingjun
+云水侯 = Yun Shui Marquis
+--- From ch_820.txt (chunk 4) ---
+长眉 = Chang Mei
+虞 = Yu
+长青 = Chang Qing
+月罗 = Yue Luo
+雷暴 = Lei Bao
+月啸 = Yue Xiao
+人祖 = Human Ancestor
+圣母 = Holy Mother
+
+=== ch_821.txt ===
+
+--- From ch_821.txt (chunk 1) ---
+长眉 = Chang Mei
+长青 = Chang Qing
+虞 = Yu
+月昊 = Yue Hao
+三月 = March
+月罗 = Yue Luo
+月啸 = Yue Xiao
+云水侯 = Marquis Yunshui
+狱青 = Control Qing
+月战 = Yue Zhan
+--- From ch_821.txt (chunk 2) ---
+虞 = Yu
+百战 = Hundred Battle
+人门 = Human Gate
+周奇 = Zhou Qi
+长眉 = Long Brow
+长青 = Evergreen
+雷暴 = Thunderstorm
+月罗 = Moon Luo
+人祖 = Human Ancestor
+狱王 = Control King
+红月 = Red Moon
+血影 = Blood Shadow
+--- From ch_821.txt (chunk 3) ---
+百战 = Hundred Battle
+红月 = Red Moon
+狱青 = Yu Qing
+摩天尊 = Mo Heavenly Venerable
+月战 = Yue Zhan
+雷暴 = Lei Bao
+月罗 = Yue Luo
+月啸 = Yue Xiao
+--- From ch_821.txt (chunk 4) ---
+狱青 = Yu Qing
+月战 = Yue Zhan
+神皇妃 = Divine Empress
+荒天尊 = Desolate Heavenly Venerable
+圣侯 = Saint Marquis
+摩天尊 = Mo Heavenly Venerable
+月罗 = Yue Luo
+月啸 = Yue Xiao
+
+=== ch_822.txt ===
+
+--- From ch_822.txt (chunk 1) ---
+月战 = Moon War
+紫烟 = Purple Smoke
+婆龙 = Old Dragon
+神皇妃 = Divine Empress
+虞 = Yu
+雷暴 = Thunderstorm
+月罗 = Moon Luo
+月啸 = Moon Howl
+武极 = Wu Ji
+红月 = Red Moon
+大周王 = Great Zhou King
+--- From ch_822.txt (chunk 2) ---
+摩天尊 = Mo Tianzun
+狱青 = Yu Qing
+炎火魔皇 = Flame Demon Emperor
+青师妹 = Sister Qing
+月啸 = Yue Xiao
+--- From ch_822.txt (chunk 3) ---
+八翼虎 = Eight-Winged Tiger
+混沌龙 = Chaos Dragon
+狱王 = Control King
+罪族 = Sin Race
+摩天 = Motian
+摩天尊 = Motian Zun
+狱青 = Yuying
+婆龙 = Polong
+月战 = Yue Zhan
+长青 = Changqing
+长眉 = Changmei
+月啸 = Yue Xiao
+周稷 = Zhou Ji
+月罗 = Yue Luo
+雷暴 = Thunderstorm
+--- From ch_822.txt (chunk 4) ---
+百战 = Hundred Battle King
+武极 = Wu Ji
+月罗 = Yue Luo
+虞 = Yu
+周稷 = Zhou Ji
+
+=== ch_823.txt ===
+
+--- From ch_823.txt (chunk 1) ---
+虞 = Yu
+周稷 = Zhou Ji
+--- From ch_823.txt (chunk 2) ---
+虞 = Yu
+人祖 = Human Ancestor
+星宇印 = Xingyu Imprint
+人主印 = Human Lord Seal
+巨竹侯 = Marquis Giant Bamboo
+三月 = March
+九月 = September
+四月 = April
+五月 = May
+六月 = June
+八月 = August
+圆月 = Full Moon
+--- From ch_823.txt (chunk 3) ---
+灭蚕王 = King of Annihilation
+虞 = Yu
+虞姬 = Yu Ji
+周稷 = Zhou Ji
+月罗 = Moon Luo
+百战 = Hundred Battles
+摩多那 = Modona
+长青 = Changqing
+长眉 = Changmei
+武极 = Wuji
+红月 = Hongyue
+血影 = Xueying
+太古巨人王 = Ancient Giant King
+--- From ch_823.txt (chunk 4) ---
+周稷 = Zhou Ji
+虞 = Yu
+--- From ch_823.txt (chunk 5) ---
+周稷 = Zhou Ji
+虞 = Yu
+三门 = Three Gates
+
+=== ch_824.txt ===
+
+--- From ch_824.txt (chunk 1) ---
+周稷 = Zhou Ji
+武皇 = Martial Emperor
+百战 = Hundred Battles
+--- From ch_824.txt (chunk 2) ---
+武皇 = Martial Emperor
+周稷 = Zhou Ji
+虞 = Yu
+魔祖 = Demon Ancestor
+仙祖 = Immortal Ancestor
+--- From ch_824.txt (chunk 3) ---
+大秦王 = Great Qin King
+武皇 = Martial Emperor
+武王 = Martial King
+虞 = Yu
+百战 = Hundred Battles
+太山 = Taishan
+--- From ch_824.txt (chunk 4) ---
+武皇 = Martial Emperor
+
+=== ch_825.txt ===
+
+--- From ch_825.txt (chunk 1) ---
+武皇 = Martial Emperor
+人主印 = Human Lord Seal
+意志海 = sea of will
+--- From ch_825.txt (chunk 2) ---
+太山 = Taishan
+--- From ch_825.txt (chunk 3) ---
+人祖 = Human Ancestor
+三月 = March
+巨竹 = Giant Bamboo
+九月 = September
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+混沌古兽 = ancient chaotic beasts
+天灭 = Heavendoom
+人门 = Human Gate
+--- From ch_825.txt (chunk 4) ---
+大周王 = Great Zhou King
+人皇 = Human Emperor
+陛下 = Your Majesty
+灵肉分离 = spirit and flesh separation
+意志海 = willpower
+上游 = upper reaches
+万族 = myriad races
+开天者 = opener
+文王 = Culture King
+灭蚕王 = King Miecan
+
+=== ch_826.txt ===
+
+--- From ch_826.txt (chunk 1) ---
+狱青 = Yu Qing
+婆龙 = Granny Long
+月战 = Yue Zhan
+周稷 = Zhou Ji
+--- From ch_826.txt (chunk 2) ---
+狱青 = Yu Qing
+婆龙 = Po Long
+周稷 = Zhou Ji
+--- From ch_826.txt (chunk 3) ---
+古牛 = Gu Niu
+茶树 = Tea Plant
+地狱之门 = Gate of Hell
+百战 = Hundred Battle King
+武皇 = Martial Emperor
+周稷 = Zhou Ji
+虞 = Yu
+狱青 = Control King
+通天侯 = Marquis Tongtian
+南王 = South Heavenly King
+大周王 = Great Zhou King
+--- From ch_826.txt (chunk 4) ---
+古牛 = Ancient Bull
+大象 = Elephant
+
+=== ch_827.txt ===
+
+--- From ch_827.txt (chunk 1) ---
+地狱之门 = Gate of Hell
+混沌龙 = Chaos Dragon
+八翼虎 = Eight-Winged Tiger
+天尊 = Heavenly Venerable
+--- From ch_827.txt (chunk 2) ---
+八翼虎 = Eight-Winged Tiger
+混沌龙 = Chaos Dragon
+--- From ch_827.txt (chunk 3) ---
+天渊界域 = Abyssal Realm
+通天侯 = Marquis Tongtian
+空间古族 = Space Ancient Beast Race
+宇皇 = Emperor Yu
+人皇 = Human Emperor
+百战 = Hundred Battle King
+周稷 = Zhou Ji
+南溪侯 = Marquis Nanxi
+镇南侯 = Marquis Zhennan
+南溪侯 = Marquis Nanxi
+武极 = Wu Ji
+天策 = Tian Ce
+雪兰 = Xuelan
+火云 = Huoyun
+天火 = Tianhuo
+裂空 = Lie Kong
+英武 = Yingwu
+--- From ch_827.txt (chunk 4) ---
+定军 = Dingjun
+天灭 = Heavendoom
+
+=== ch_828.txt ===
+
+--- From ch_828.txt (chunk 1) ---
+夏虎尤 = Xia Huyou
+阳窍 = Yang Aperture
+阴阳窍穴 = Yin-Yang Apertures
+白家 = Bai Family
+白老爷子 = Old Master Bai
+死灵界域 = Death Realm
+--- From ch_828.txt (chunk 2) ---
+夏虎尤 = Xia Huyou
+朱胖子 = Fatty Zhu
+朱天道 = Zhu Tiandao
+定军侯 = Marquis Dingjun
+龙血侯 = Marquis Dragonblood
+--- From ch_828.txt (chunk 3) ---
+夏虎尤 = Xia Huyou
+龙血侯 = Marquis Dragonblood
+宇皇府 = Luminous Domain Mansion
+朱天道 = Zhu Tiandao
+夏侯爷 = Lord Xia Hou
+南无疆 = Nan Wujiang
+秦镇 = Qin Zhen
+秦放 = Qin Fang
+黄腾 = Huang Teng
+单雄 = Dan Xiong
+豆包 = Doubao
+炊饼 = Flatbread
+白枫 = Bai Feng
+仙族 = Immortal Race
+仙皇 = Immortal Emperor
+长生大道 = Longevity Dao
+仙皇大道 = Immortal Emperor Dao
+--- From ch_828.txt (chunk 4) ---
+夏侯爷 = Xiahou Ye
+朱天道 = Zhu Tiandao
+
+=== ch_829.txt ===
+
+--- From ch_829.txt (chunk 1) ---
+新宇时代 = New Era of Xingyu
+夏虎尤 = Xia Huyou
+无疆 = Wujiang
+云尘 = Yuncheng
+--- From ch_829.txt (chunk 2) ---
+南无疆 = Nan Wujiang
+玄九 = Xuan Jiu
+禁天王 = Silk Destroying King
+夏虎尤 = Xia Huyou
+夏侯爷 = Lord Xiahou
+云尘 = Yun Chen
+文钰 = Wenyu
+--- From ch_829.txt (chunk 3) ---
+南无疆 = Nan Wujian
+云尘 = Yun Chen
+夏侯爷 = Lord Xiahou
+人山 = Human Mountain
+
+=== ch_830.txt ===
+
+--- From ch_830.txt (chunk 2) ---
+时光之水 = river of time
+人皇 = Human Emperor
+人族 = human race
+万族 = myriad races
+规则之主 = ruler of laws
+人王 = Human King
+人界 = Human Realm
+人主 = Human Lord
+人侯 = human marquis
+--- From ch_830.txt (chunk 3) ---
+人皇 = Human Emperor
+规则之主 = ruler of laws
+人族 = humans
+万族 = Myriad Races
+星月 = Xingyue
+生死大道 = Life and Death Path
+人山 = Renshan
+天门 = Heaven Gate
+文王 = Culture King
+武王 = Martial King
+武皇 = Martial Emperor
+时光师 = Time Sage
+人祖 = Human Ancestor
+天灭 = Heavendoom
+混沌龙 = Chaos Dragon
+刘洪 = Liu Hong
+死灵王 = Undead Emperor
+死灵之主 = Lord of the Undead
+
+=== ch_831.txt ===
+
+--- From ch_831.txt (chunk 1) ---
+地狱之门 = Gate of Hell
+辰 = Chen
+--- From ch_831.txt (chunk 2) ---
+死灵帝尊 = Undead Emperor
+--- From ch_831.txt (chunk 3) ---
+归墟之地 = Land of the Abyss
+死灵帝尊 = Undead Emperor
+亡灵之主 = Master of the Dead
+--- From ch_831.txt (chunk 4) ---
+死灵之主 = Lord of the Undead
+死灵帝尊 = Undead Emperor
+天门 = Heaven Gate
+
+=== ch_832.txt ===
+
+--- From ch_832.txt (chunk 1) ---
+死灵长河 = Celestial River of Death
+死灵之主 = Undead Emperor
+天门 = Heaven Gate
+时光之主 = Time Master
+人皇 = Human Emperor
+人祖 = Human Ancestor
+死灵帝尊 = Undead Emperor
+混沌龙 = Chaos Dragon
+辰王 = King Chen
+--- From ch_832.txt (chunk 2) ---
+死灵帝尊 = Undead Emperor
+辰 = Chen
+人祖 = Human Ancestor
+巨人族 = Giant Race
+百战 = Hundred Battle King
+虞 = Yu
+周稷 = Zhou Ji
+地狱之门 = Gate of Hell
+雷暴 = Thunderstorm
+太古巨人王 = Ancient Giant King
+宇皇 = Emperor Yu
+三身法 = Three Body Method
+--- From ch_832.txt (chunk 3) ---
+太古巨人王 = Ancient Giant King
+叶霸天 = Ye Batian
+周稷 = Zhou Ji
+虞 = Yu
+人祖 = Human Ancestor
+神皇妃 = Divine Empress
+--- From ch_832.txt (chunk 4) ---
+死灵帝尊 = Undead Emperor
+
+=== ch_833.txt ===
+
+--- From ch_833.txt (chunk 1) ---
+周稷 = Zhou Ji
+百战 = Hundred Battle King
+王虎 = Wang Hu
+--- From ch_833.txt (chunk 2) ---
+上古 = ancient times
+万天圣 = Wan Tiansheng
+大周王 = Great Zhou King
+三身法 = Three Body Method
+时光长河 = river of time
+大道 = Great Dao
+记忆长河 = river of memories
+人皇 = Human Emperor
+文王 = Culture King
+武王 = Martial King
+人祖 = Human Ancestor
+虞 = Yu
+百战 = Hundred Battle
+死灵之主 = Master of Death
+时光之主 = Master of Time
+三门 = Three Gates
+天地人三门 = Heaven, Earth, and Human Gates
+地门 = Earth Gate
+天门 = Heaven Gate
+人门 = Human Gate
+南王 = South Heavenly King
+死灵帝尊 = Undead Emperor
+--- From ch_833.txt (chunk 3) ---
+灭蚕王 = Heavendoom
+星落山 = Xingluo Mountain
+--- From ch_833.txt (chunk 4) ---
+吴阿三 = Wu Ah San
+
+=== ch_834.txt ===
+
+--- From ch_834.txt (chunk 1) ---
+虚影 = Shadow
+时光册 = Book of Time
+时光师 = Time Sage
+文王 = Culture King
+夏侯爷 = Lord Xiahou
+吴阿三 = Wu Ah San
+--- From ch_834.txt (chunk 2) ---
+星宇 = Xingyu
+文宇 = Wenyu
+文钰 = Wenyu
+周稷 = Zhou Ji
+--- From ch_834.txt (chunk 3) ---
+天门 = Heaven Gate
+星宇 = Xingyu
+--- From ch_834.txt (chunk 4) ---
+文王 = Culture King
+人祖 = Human Ancestor
+天门 = Heaven Gate
+死灵之主 = Lord of the Undead
+时光师 = Time Sage
+
+=== ch_835.txt ===
+
+--- From ch_835.txt (chunk 1) ---
+中文 = English Translation
+--- From ch_835.txt (chunk 2) ---
+融三身 = merge three bodies
+南王 = South Heavenly King
+大周王 = Great Zhou King
+人主印 = Human Lord Seal
+本源 = source
+规则之主 = ruler of laws
+--- From ch_835.txt (chunk 4) ---
+三月 = March
+巨竹 = Giant Bamboo
+英武 = Yingwu
+犼皇 = Hou Emperor
+
+=== ch_836.txt ===
+
+--- From ch_836.txt (chunk 2) ---
+秦镇 = Qin Zhen
+秦昊 = Qin Hao
+朱天道 = Zhu Tiandao
+朱天方 = Zhu Tianfang
+朱广深 = Zhu Guangshen
+夏龙武 = Xia Longwu
+定军侯 = Marquis Dingjun
+火云侯 = Marquis Huoyun
+天火 = Tianhuo
+星宏 = Grandstar
+云霄 = Empyrean Cloud
+鸿蒙 = Hongmeng
+噬空 = Devour Space
+裂空侯 = Marquis Rift Space
+--- From ch_836.txt (chunk 3) ---
+裂空侯 = Lie Kong Marquis
+琪王妃 = Consort Qi
+恭王 = King Gong
+命皇 = Fate Emperor
+天策 = Tian Ce
+南溪侯 = Marquis Nanxi
+镇南侯 = Marquis Zhennan
+火云侯 = Fire Cloud Marquis
+--- From ch_836.txt (chunk 4) ---
+蓝天 = Lantian
+夏虎尤 = Xia Huyou
+肥球 = Fat Ball
+监天侯 = Marquis Zhennan
