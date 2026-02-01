@@ -1177,3 +1177,246 @@ Master Of Law
 神仙魔 = Divine, Immortal, and Devil races
 万族大陆 = Myriad Race Continent
 人族大陆 = Human Race Continent
+
+=== ch_837.txt ===
+
+--- From ch_837.txt (chunk 1) ---
+岳王 = King Yue
+
+=== ch_838.txt ===
+
+--- From ch_838.txt (chunk 1) ---
+白袍 = White Robe
+大马猴 = Big Horse Monkey
+--- From ch_838.txt (chunk 2) ---
+岚山 = Lanshan
+南溪 = Nanxi
+
+=== ch_839.txt ===
+
+--- From ch_839.txt (chunk 2) ---
+长河之水 = river of time
+星 = Xing
+文诀 = Wen Codex
+--- From ch_839.txt (chunk 3) ---
+万界 = Myriad Realms
+魔皇 = Demon Emperor
+龙皇 = Dragon Emperor
+冥皇 = Nether Emperor
+道侣 = dao companion
+四极人王 = Four Extremes Human Kings
+
+=== ch_840.txt ===
+
+--- From ch_840.txt (chunk 1) ---
+虚伪的笑 = Hypocritical Smile
+
+=== ch_841.txt ===
+
+--- From ch_841.txt (chunk 1) ---
+黑云压顶 = Dark Clouds Looming
+--- From ch_841.txt (chunk 2) ---
+雪王 = Snow King
+--- From ch_841.txt (chunk 3) ---
+犼族 = Hou Race
+文老二 = Wen
+老夏 = Old Xia
+老朱 = Old Zhu
+
+=== ch_842.txt ===
+
+--- From ch_842.txt (chunk 2) ---
+无命 = No Fate
+一月 = January
+--- From ch_842.txt (chunk 3) ---
+苍老声 = Ancient Voice
+灵召唤 = Spirit Summoning
+灵肉合一 = Spirit and Flesh Unification
+长河 = River
+肉身道 = Physical Dao
+
+=== ch_843.txt ===
+
+--- From ch_843.txt (chunk 1) ---
+第十潮汐 = Tenth Tide
+--- From ch_843.txt (chunk 2) ---
+准王 = quasi-kings
+--- From ch_843.txt (chunk 3) ---
+归 = Gui
+
+=== ch_844.txt ===
+
+--- From ch_844.txt (chunk 2) ---
+镇武王 = Marshal of War
+--- From ch_844.txt (chunk 3) ---
+音王 = Sound King
+巨耳 = Great Ear
+八目 = Eight Eyes
+瞳王 = Eye King
+三目金曈 = three-eyed golden pupil
+
+=== ch_846.txt ===
+
+--- From ch_846.txt (chunk 2) ---
+破山牛 = mountain-breaking ox
+天渊族 = Abyssal Race
+--- From ch_846.txt (chunk 3) ---
+猿族 = Ape Clan
+
+=== ch_848.txt ===
+
+--- From ch_848.txt (chunk 2) ---
+玛德 = Damn it
+镇南 = Zhennan
+人皇道 = Human Emperor Dao
+
+=== ch_850.txt ===
+
+--- From ch_850.txt (chunk 1) ---
+君生我已老 = When You Were Born, I Was Already Old
+
+=== ch_852.txt ===
+
+--- From ch_852.txt (chunk 1) ---
+归云山 = Guiyun Mountain
+永生山 = Eternal Life Mountain
+死灵禁地 = Necro Forbidden Ground
+死灵霸主 = Necro Overlord
+禁地霸主 = overlord of forbidden grounds
+禁地 = forbidden ground
+
+=== ch_853.txt ===
+
+--- From ch_853.txt (chunk 1) ---
+靴子 = boots
+--- From ch_853.txt (chunk 3) ---
+永安历 = Yong'an Calendar
+星宇老大 = Xingyu
+--- From ch_853.txt (chunk 4) ---
+天地 = world
+
+=== ch_857.txt ===
+
+--- From ch_857.txt (chunk 1) ---
+岳传 = Yue Chuan
+--- From ch_857.txt (chunk 3) ---
+焚海 = Sea Burning
+柳文彦 = Liu Wenyan
+
+=== ch_858.txt ===
+
+--- From ch_858.txt (chunk 2) ---
+赵立 = Zhao Li
+--- From ch_858.txt (chunk 3) ---
+苏人主 = Human Lord Su
+--- From ch_858.txt (chunk 4) ---
+万府长 = Wan Tiansheng
+
+=== ch_859.txt ===
+
+--- From ch_859.txt (chunk 2) ---
+平王 = King Ping
+--- From ch_859.txt (chunk 4) ---
+真要如此 = If it truly comes to that
+无敌 = invincible
+自爆 = self-destruct
+强者 = powerful beings
+专门 = specifically
+针对 = targeting
+破开 = breached
+断开 = severed
+连接 = connection
+重伤 = severely injured
+二等 = second tier
+避战 = avoid battle
+传音 = transmitted a message
+麾下 = under command
+累的直喘气 = panting heavily from exhaustion
+疯狂吐舌头 = sticking out its tongue in fatigue
+累死了 = exhausted
+受伤 = injured
+挨打 = battered
+大魔头 = tyrant
+大疯子 = madman
+打法 = fighting style
+崩溃 = collapse
+顶级强者 = top-tier experts
+强势镇压 = holding the line
+一等战 = first-tier battles
+溃散 = fallen apart
+好战 = battle-hardened
+吐血 = vomit blood
+高强度 = high-intensity
+轰隆 = Boom
+大道之力 = power of various Daos
+纠缠 = entangled
+厌战 = weary of fighting
+疗伤 = healing
+消耗巨大无比 = consuming a tremendous amount of resources
+前线 = front lines
+安心 = at ease
+斗不过 = couldn't fight
+逃离 = retreat
+减员 = losing members
+第十次战斗 = tenth battle
+人皇虚影 = Human Emperor's shadow
+假神文 = fake character
+伪装 = disguise
+受伤的强者 = injured ones
+苏宇天地之力 = Su Yu's world power
+消失 = vanished
+战场 = battlefield
+开胃菜 = appetizer
+断道 = severed Dao
+发起全力冲锋 = launch an all-out assault
+危机 = crisis
+速去速回 = go and return quickly
+融天地 = merge with the world
+融道 = integrate their Daos
+断人皇大道 = sever the Human Emperor's Great Dao
+天地之灵 = spirits of the world
+续道 = continue their Daos
+救援 = rescue
+面临 = face
+情况 = situation
+低喝 = shouted lowly
+沉重 = heavily
+撤离 = retreated
+付出巨大的代价 = at a great cost
+出击 = attack
+逃兵 = deserters
+迅速融道天地 = quickly merge with the world
+回援 = return to aid
+凝重 = solemn
+变态 = freak
+免得 = lest
+找麻烦 = causes trouble
+经历 = experienced
+死亡 = death
+坚韧 = resilient
+极致 = extreme
+磨疯 = driven mad
+
+=== ch_861.txt ===
+
+--- From ch_861.txt (chunk 1) ---
+契机 = opportunity
+灵皇 = Spirit Emperor
+凤皇 = Phoenix Emperor
+明王妃 = Consort of the Radiant King
+
+=== ch_862.txt ===
+
+--- From ch_862.txt (chunk 2) ---
+岳山 = Yue Shan
+--- From ch_862.txt (chunk 3) ---
+大阵 = grand formation
+灵皇意志海 = Spirit Emperor's sea of will
+龙凤冥 = Dragon, Phoenix, and Nether
+
+=== ch_864.txt ===
+
+--- From ch_864.txt (chunk 1) ---
+混沌之主 = Lord of Chaos
+--- From ch_864.txt (chunk 3) ---
+法 = Law
