@@ -128,7 +128,7 @@ function populateChapterSelector() {
 }
 
 // Load a specific chapter
-async function loadChapter(chapterNum) {
+async function loadChapter(chapterNum, restoreScroll = false) {
     try {
         currentChapter = chapterNum;
         const chapter = chapters.find(c => c.number === chapterNum);
@@ -142,7 +142,11 @@ async function loadChapter(chapterNum) {
         chapterContent.innerHTML = '<p class="loading">Loading chapter...</p>';
         
         showPage('reader');
-        window.scrollTo(0, 0);
+        
+        // Only scroll to top if not restoring position
+        if (!restoreScroll) {
+            window.scrollTo(0, 0);
+        }
 
         const response = await fetch(`en_chapters/${chapter.filename}`);
         const text = await response.text();
@@ -159,6 +163,16 @@ async function loadChapter(chapterNum) {
 
         // Save last read chapter
         localStorage.setItem('lastReadChapter', chapterNum);
+        
+        // Restore scroll position if requested
+        if (restoreScroll) {
+            const savedScroll = localStorage.getItem('lastScrollPosition');
+            if (savedScroll) {
+                setTimeout(() => {
+                    window.scrollTo(0, parseInt(savedScroll));
+                }, 100); // Small delay to ensure content is rendered
+            }
+        }
     } catch (error) {
         console.error('Error loading chapter:', error);
         chapterContent.innerHTML = '<p class="loading">Error loading chapter content.</p>';
@@ -215,7 +229,7 @@ function checkLastRead() {
     const lastRead = localStorage.getItem('lastReadChapter');
     if (lastRead && chapters.length > 0) {
         continueReadingBtn.style.display = 'inline-block';
-        continueReadingBtn.onclick = () => loadChapter(parseInt(lastRead));
+        continueReadingBtn.onclick = () => loadChapter(parseInt(lastRead), true); // Restore scroll position
     }
 }
 
@@ -255,8 +269,17 @@ function setupEventListeners() {
     let lastScrollTop = 0;
     const navbar = document.querySelector('.navbar');
     const scrollThreshold = 5; // Minimum scroll distance to trigger
+    let scrollSaveTimeout;
     
     window.addEventListener('scroll', () => {
+        // Save scroll position when reading (debounced)
+        if (readerPage.classList.contains('active')) {
+            clearTimeout(scrollSaveTimeout);
+            scrollSaveTimeout = setTimeout(() => {
+                localStorage.setItem('lastScrollPosition', window.pageYOffset.toString());
+            }, 500); // Save every 500ms of scroll inactivity
+        }
+        
         // Only on mobile devices
         if (window.innerWidth <= 768) {
             const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
