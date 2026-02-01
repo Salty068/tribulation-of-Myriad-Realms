@@ -1159,3 +1159,21 @@ Master Of Law
 夏虎尤 = Xia Huyou
 肥球 = Fat Ball
 监天侯 = Marquis Zhennan
+
+=== ch_837.txt ===
+
+--- From ch_837.txt (chunk 4) ---
+战王 = Zhan Wang
+
+=== ch_838.txt ===
+
+--- From ch_838.txt (chunk 4) ---
+周天 = Zhou Tian
+
+=== ch_841.txt ===
+
+--- From ch_841.txt (chunk 4) ---
+龙凤冥各族 = Dragon, Phoenix, and Nether Races
+神仙魔 = Divine, Immortal, and Devil races
+万族大陆 = Myriad Race Continent
+人族大陆 = Human Race Continent
